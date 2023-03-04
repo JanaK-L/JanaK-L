@@ -9,7 +9,7 @@ Aktuell befasse ich mich mit den Modulen Machine Learning, Scientific Python Pro
 
 ## **Werkzeuge**
 <p align="left">
-<a href="https://www.qgis.org/de/site/" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/JanaK-L/blob/main/qgis.png" width="85" height="45" alt="QGIS" title="QGIS" /></a>
+<a href="https://www.qgis.org/de/site/" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/JanaK-L/blob/main/qgis.png" width="85" height="85" alt="QGIS" title="QGIS" /></a>
 <a href="https://www.esri.com/de-de/arcgis/about-arcgis/overview" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/JanaK-L/blob/main/arcgis.png" width="36" height="36" alt="ArcGIS" title="ArcGIS"/></a>
 <a href="https://powersim.com/" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/JanaK-L/blob/main/Powersim.png" width="36" height="36" alt="Powersim" title="Powersim"/></a>
 <a href="https://www.ibm.com/de-de/products/spss-statistics" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/JanaK-L/blob/main/spss.png" width="36" height="36" alt="IBM SPSS Statistics" title="IBM SPSS Statistics" /></a>
