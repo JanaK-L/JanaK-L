@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/JanaK-L/JanaK-L/blob/main/Banner.png)
+!(https://github.com/JanaK-L/JanaK-L/blob/main/Banner.png)
 
 
 ## Jana Kombrink-Lübbe
