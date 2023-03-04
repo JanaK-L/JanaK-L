@@ -3,7 +3,7 @@
 ## Jana Kombrink-Lübbe
 Egal ob Urban Sprawl, Habitatsanalyse oder die Frachtmodellierung von Belastungen in einem Fließgewässer, jede Art von auf Geodaten basierender Analyse, Modellierung oder Simulation begeistert mich. Die Analyse von Fernerkundungsdaten stellt für nahezu jede raumbezogene Fragestellung eine maßgebende Entscheidungshilfe dar. Insbesondere in Zeiten des Artensterbens und des Klimawandels ist die Fernerkundung ein nicht mehr wegzudenkendes Instrument zur Untersuchung der Gesundheit unseres Planeten geworden.
 
-Ich studiere derzeit die Fächer Geoinformatik und Umweltsystemwissenschaft im Zweifächer-Bachelor an der Universität Osnabrück. Nebenbei arbeite ich als studentische Forschungshilfskraft an der Universität Osnabrück sowie als Servicekraft im Restaurant am Wiehenpark.
+Daher studiere ich derzeit die Fächer Geoinformatik und Umweltsystemwissenschaft im Zweifächer-Bachelor an der Universität Osnabrück. Nebenbei arbeite ich als studentische Forschungshilfskraft an der Universität Osnabrück sowie als Servicekraft im Restaurant am Wiehenpark.
 
 Aktuell befasse ich mich mit den Modulen Machine Learning, Scientific Python Programming und mit meiner Bachelorarbeit bezüglich des Themas "Das GreatER Modell".
 
