@@ -6,7 +6,7 @@ Ich studiere derzeit die Fächer Geoinformatik und Umweltsystemwissenschaft im Z
 
 Aktuell befasse ich mich mit den Modulen Machine Learning, Scientific Python Programming und mit meiner Bachelorarbeit bezüglich des Themas "Das GreatER Modell".
 
-Aufgrund der Interdiziplinarität meiner beiden Studienfächer, konnte ich bereits unterschiedliche kleine Projekte absolvieren. Diese Projekte umfassen statistische und fernerkundliche Analysen sowie die umweltsystemwissenschaftliche Modellbildung. Ebenso beinhalten sie die Implementierung und Anwendung ausgewählter Konzepte der Informatik.
+Aufgrund der Interdiziplinarität meiner beiden Studienfächer, konnte ich bereits unterschiedliche kleine Projekte absolvieren. Diese Projekte umfassen statistische und fernerkundliche Analysen sowie die umweltsystemwissenschaftliche Modellbildung raumbezogener Problemstellungen. Ebenso beinhalten sie die Implementierung und Anwendung ausgewählter Konzepte der Informatik.
 
 ### Kenntnisse
 * 💻 Java, Python, JavaScript, HTML, CSS
@@ -26,5 +26,6 @@ Aufgrund der Interdiziplinarität meiner beiden Studienfächer, konnte ich berei
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+ <a href="https://www.qgis.org/de/site/" target="_blank" rel="noreferrer"><img src= width="36" height="36" alt="QGIS" /></a>
 </p>
                     
