@@ -1,7 +1,7 @@
 ![RemoteSensing](https://github.com/JanaK-L/JanaK-L/blob/main/Banner.png)
 
 ## Jana Kombrink-Lübbe
-*Egal ob Urban Sprawl, Habitatsanalyse oder die Frachtmodellierung von Belastungen in einem Fließgewässer, jede Art von auf Geodaten basierender Analyse, Modellierung oder Simulation begeistert mich. Die Analyse von Fernerkundungsdaten stellt für nahezu jede raumbezogene Fragestellung eine maßgebende Entscheidungshilfe dar. Insbesondere in Zeiten des Artensterbens und des Klimawandels ist die Fernerkundung ein nicht mehr wegzudenkendes Instrument zur Untersuchung der Gesundheit unseres Planeten geworden.*
+**_Egal ob Urban Sprawl, Habitatsanalyse oder die Frachtmodellierung von Belastungen in einem Fließgewässer, jede Art von auf Geodaten basierender Analyse, Modellierung oder Simulation begeistert mich. Die Analyse von Fernerkundungsdaten stellt für nahezu jede raumbezogene Fragestellung eine maßgebende Entscheidungshilfe dar. Insbesondere in Zeiten des Artensterbens und des Klimawandels ist die Fernerkundung ein nicht mehr wegzudenkendes Instrument zur Untersuchung der Gesundheit unseres Planeten geworden._**
 
 Daher studiere ich die Fächer Geoinformatik und Umweltsystemwissenschaft im Zweifächer-Bachelor. Nebenbei arbeite ich als studentische Forschungshilfskraft an der Universität Osnabrück sowie als Servicekraft im Restaurant am Wiehenpark.
 
