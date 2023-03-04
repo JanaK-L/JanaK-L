@@ -7,7 +7,7 @@ Daher studiere ich derzeit die Fächer Geoinformatik und Umweltsystemwissenschaf
 
 Aktuell befasse ich mich mit den Modulen Machine Learning, Scientific Python Programming und mit meiner Bachelorarbeit bezüglich des Themas "Das GreatER Modell".
 
-## **Kenntnisse & Tools**
+## **Werkzeuge**
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
