@@ -1,11 +1,5 @@
 ![RemoteSensing](https://github.com/JanaK-L/JanaK-L/blob/main/Banner.png)
 
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/JanaK-L/JanaK-L/blob/main/Banner.png "Logo Title Text 2"
-
 ## Jana Kombrink-Lübbe
 
 Ich studiere derzeit die Fächer Geoinformatik und Umweltsystemwissenschaft im Zweifächer-Bachelor an der Universität Osnabrück. Nebenbei arbeite ich als studentische Forschungshilfskraft an der Universität Osnabrück sowie als Servicekraft im Restaurant am Wiehenpark.
@@ -23,8 +17,6 @@ Aufgrund der Interdiziplinarität meiner beiden Studienfächer, konnte ich berei
 
 ### Projekte
 
-
-buymeacoffeeBuy Me a Coffee:
 
 ### Skills 
 <p align="left">
