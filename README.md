@@ -1,9 +1,9 @@
 ![RemoteSensing](https://github.com/JanaK-L/JanaK-L/blob/main/Banner.png)
 
 
-## Jana Kombrink-Lübbe
+## Hi, ich bin Jana Kombrink-Lübbe 👋
 
-Ich studiere derzeit die Fächer Geoinformatik und Umweltsystemwissenschaft im Zweifächer-Bachelor an der Universität Osnabrück. Nebenbei arbeite ich sowohl als studentische Forschungshilfskraft an der Universität Osnabrück als auch als Servicekraft im Restaurant am Wiehenpark.
+Derzeit studiere ich die Fächer Geoinformatik und Umweltsystemwissenschaft im Zweifächer-Bachelor an der Universität Osnabrück. Nebenbei arbeite ich als studentische Forschungshilfskraft an der Universität Osnabrück und als Servicekraft im Restaurant am Wiehenpark.
 
 Aktuell befasse ich mit Machine Learning, Scientific Python Programming sowie mit meiner Bachelorarbeit bezüglich des Themas "Das GreatER Modell".
 
@@ -16,4 +16,4 @@ Aufgrund der Interdiziplinarität meiner beiden Studienfächer, konnte ich berei
 * 📊 IBM SPSS Statistics
 * 📜 Latex
 
-
+### Projekte
