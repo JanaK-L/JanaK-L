@@ -9,17 +9,8 @@ Aktuell befasse ich mich mit den Modulen Machine Learning, Scientific Python Pro
 
 Aufgrund der Interdiziplinarität meiner beiden Studienfächer, konnte ich bereits unterschiedliche kleine Projekte absolvieren. Diese Projekte umfassen statistische und fernerkundliche Analysen sowie die umweltsystemwissenschaftliche Modellbildung raumbezogener Problemstellungen. Ebenso beinhalten sie die Implementierung und Anwendung ausgewählter Konzepte der Informatik.
 
-### Kenntnisse
-* 💻 Java, Python, JavaScript, HTML, CSS
-* 🗺️ QGIS, ArcGIS Pro
-* 📈 Powersim
-* 📊 IBM SPSS Statistics
-* 📜 Latex
 
-### Projekte
-
-
-### Skills 
+### Kenntnisse & Tools
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -27,9 +18,13 @@ Aufgrund der Interdiziplinarität meiner beiden Studienfächer, konnte ich berei
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
- <a href="https://www.qgis.org/de/site/" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/JanaK-L/blob/main/qgis.png" width="36" height="36" alt="QGIS" /></a>
+<a href="https://www.qgis.org/de/site/" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/JanaK-L/blob/main/qgis.png" width="36" height="36" alt="QGIS" /></a>
+<a href="https://www.esri.com/de-de/arcgis/about-arcgis/overview" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/JanaK-L/blob/main/arcgis.png" width="36" height="36" alt="ArcGIS" /></a> 
 </p>
 
 https://github.com/JanaK-L/JanaK-L/blob/main/arcgis.png
+* 📈 Powersim
+* 📊 IBM SPSS Statistics
+* 📜 Latex
 
-                    
+### Projekte
