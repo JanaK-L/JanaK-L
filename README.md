@@ -19,12 +19,15 @@ Aufgrund der Interdiziplinarität meiner beiden Studienfächer, konnte ich berei
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.qgis.org/de/site/" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/JanaK-L/blob/main/qgis.png" width="36" height="36" alt="QGIS" /></a>
-<a href="https://www.esri.com/de-de/arcgis/about-arcgis/overview" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/JanaK-L/blob/main/arcgis.png" width="36" height="36" alt="ArcGIS" /></a> 
+<a href="https://www.esri.com/de-de/arcgis/about-arcgis/overview" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/JanaK-L/blob/main/arcgis.png" width="36" height="36" alt="ArcGIS" /></a>
+<a href="https://www.esri.com/de-de/arcgis/about-arcgis/overview" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/JanaK-L/blob/main/arcgis.png" width="36" height="36" alt="Powersim" /></a>
+<a href="https://www.esri.com/de-de/arcgis/about-arcgis/overview" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/JanaK-L/blob/main/arcgis.png" width="36" height="36" alt="IBM SPSS Statistics" /></a>
+<a href="https://www.overleaf.com/project" target="_blank" rel="noreferrer"><img src="https://images.ctfassets.net/nrgyaltdicpt/h9dpHuVys19B1sOAWvbP6/5f8d4c6d051f63e4ba450befd56f9189/ologo_square_colour_light_bg.svg" width="36" height="36" alt="Overleaf Latex Editor" /></a>
 </p>
 
-https://github.com/JanaK-L/JanaK-L/blob/main/arcgis.png
+
 * 📈 Powersim
 * 📊 IBM SPSS Statistics
-* 📜 Latex
+
 
 ### Projekte
