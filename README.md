@@ -23,5 +23,9 @@ Aktuell befasse ich mich mit den Modulen Machine Learning, Scientific Python Pro
 </p>
 
 
+
+
+
+
 ## **Projekte**
 Aufgrund der Interdiziplinarität meiner beiden Studienfächer, konnte ich bereits unterschiedliche kleine Projekte absolvieren. Diese Projekte umfassen statistische und fernerkundliche Analysen sowie die umweltsystemwissenschaftliche Modellbildung raumbezogener Problemstellungen. Ebenso beinhalten sie die Implementierung und Anwendung ausgewählter Konzepte der Informatik.
