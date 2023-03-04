@@ -1,4 +1,4 @@
-!(https://github.com/JanaK-L/JanaK-L/blob/main/Banner.png)
+![RemoteSensing](https://github.com/JanaK-L/JanaK-L/blob/main/Banner.png)
 
 
 ## Jana Kombrink-Lübbe
