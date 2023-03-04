@@ -21,7 +21,7 @@ Aufgrund der Interdiziplinarität meiner beiden Studienfächer, konnte ich berei
 <a href="https://www.qgis.org/de/site/" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/JanaK-L/blob/main/qgis.png" width="36" height="36" alt="QGIS" /></a>
 <a href="https://www.esri.com/de-de/arcgis/about-arcgis/overview" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/JanaK-L/blob/main/arcgis.png" width="36" height="36" alt="ArcGIS" /></a>
 <a href="https://powersim.com/" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/JanaK-L/blob/main/Powersim.png" width="36" height="36" alt="Powersim" /></a>
-<a href="https://www.ibm.com/de-de/products/spss-statistics" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/JanaK-L/blob/main/spss.jpg" width="36" height="36" alt="IBM SPSS Statistics" /></a>
+<a href="https://www.ibm.com/de-de/products/spss-statistics" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/JanaK-L/blob/main/spss.png" width="36" height="36" alt="IBM SPSS Statistics" /></a>
 <a href="https://www.overleaf.com/project" target="_blank" rel="noreferrer"><img src="https://images.ctfassets.net/nrgyaltdicpt/h9dpHuVys19B1sOAWvbP6/5f8d4c6d051f63e4ba450befd56f9189/ologo_square_colour_light_bg.svg" width="36" height="36" alt="Overleaf Latex Editor" /></a>
 </p>
 
