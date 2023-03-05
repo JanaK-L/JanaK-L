@@ -28,3 +28,17 @@ Aufgrund der Interdiziplinarität meiner beiden Studienfächer, konnte ich berei
 
 <p align="left">
 <a href="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/klasse4.jpg" width="215" alt="Android Applikation: Fahrradwegbeschaffenheit" title="Android Applikation: Fahrradwegbeschaffenheit"/></a>
+
+Work in Progress:
+* Mapping
+* Geosensornetzwerke
+* Quanti
+* GMI
+* ITS
+* Rechnernetze
+* Powersim?
+
+Future Work:
+* BA
+* Scientific Python Programming Project
+* ML
