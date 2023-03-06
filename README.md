@@ -27,12 +27,10 @@ Aktuell befasse ich mich mit den Modulen Machine Learning, Scientific Python Pro
 Aufgrund der Interdiziplinarität meiner beiden Studienfächer, konnte ich bereits unterschiedliche kleine Projekte absolvieren. Diese Projekte umfassen statistische und fernerkundliche Analysen sowie die umweltsystemwissenschaftliche Modellbildung raumbezogener Problemstellungen. Ebenso beinhalten sie die Implementierung und Anwendung ausgewählter Konzepte der Informatik.
 
 <p align="center">
-<a href="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/klasse4.jpg" width="215" alt="Android Applikation: Fahrradwegbeschaffenheit" title="Android Applikation: Fahrradwegbeschaffenheit"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/klasse4.jpg" width="215" alt="Android Applikation: Fahrradwegbeschaffenheit" title="Android Applikation: Fahrradwegbeschaffenheit"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://github.com/JanaK-L/App_MeROS#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/App_MeROS/blob/main/images/MeROS2.png" width="243" alt="Applikation: MeROS - Meldesystem Radfahrender in Osnabrück" title="Applikation: MeROS - Meldesystem Radfahrender in Osnabrück"/></a>
-</p> 
 
-<p align="center">
-<a href="https://github.com/JanaK-L/GIS_Modell_Integration#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" width="450" alt="Bacterial Loading Modell: Der Durchfluss [m^3/a] und die berechnete Bakterienfrachtkonzentration [cfu/a mit cfu = colony forming unit = Zahl coliformer Bakterien] im Untersuchungsgebiet." title="Bacterial Loading Modell: Der Durchfluss [m^3/a] und die berechnete Bakterienfrachtkonzentration [cfu/a mit cfu = colony forming unit = Zahl coliformer Bakterien] im Untersuchungsgebiet."/></a>
+<a href="https://github.com/JanaK-L/GIS_Modell_Integration#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" width="300" alt="Bacterial Loading Modell: Der Durchfluss [m^3/a] und die berechnete Bakterienfrachtkonzentration [cfu/a mit cfu = colony forming unit = Zahl coliformer Bakterien] im Untersuchungsgebiet." title="Bacterial Loading Modell: Der Durchfluss [m^3/a] und die berechnete Bakterienfrachtkonzentration [cfu/a mit cfu = colony forming unit = Zahl coliformer Bakterien] im Untersuchungsgebiet."/></a>  
 </p>  
   
 
