@@ -26,13 +26,16 @@ Aktuell befasse ich mich mit den Modulen Machine Learning, Scientific Python Pro
 ## **Projekte**
 Aufgrund der Interdiziplinarität meiner beiden Studienfächer, konnte ich bereits unterschiedliche kleine Projekte absolvieren. Diese Projekte umfassen statistische und fernerkundliche Analysen sowie die umweltsystemwissenschaftliche Modellbildung raumbezogener Problemstellungen. Ebenso beinhalten sie die Implementierung und Anwendung ausgewählter Konzepte der Informatik.
 
+### Android Apps
 <p align="center">
 <a href="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/klasse4.jpg" width="215" alt="Android Applikation: Fahrradwegbeschaffenheit" title="Android Applikation: Fahrradwegbeschaffenheit"/></a> &nbsp; &nbsp; &nbsp; 
 <a href="https://github.com/JanaK-L/App_MeROS#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/App_MeROS/blob/main/images/MeROS2.png" width="243" alt="Applikation: MeROS - Meldesystem Radfahrender in Osnabrück" title="Applikation: MeROS - Meldesystem Radfahrender in Osnabrück"/></a>
 </p> 
 
+### Modellierung, GIS, Statistik
 <p align="center">
-<a href="https://github.com/JanaK-L/GIS_Modell_Integration#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" width="300" alt="GIS-Modell-Integration: Bacterial Loading Modell" title="GIS-Modell-Integration: Bacterial Loading Modell"/></a> 
+<a href="https://github.com/JanaK-L/GIS_Modell_Integration#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" width="300" alt="GIS-Modell-Integration: Bacterial Loading Modell" title="GIS-Modell-Integration: Bacterial Loading Modell"/></a>  &nbsp; &nbsp; &nbsp; 
+<a href="" target="_blank" rel="noreferrer"><img src="" width="300" alt="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel"/></a> 
 </p>  
   
 
