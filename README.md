@@ -32,7 +32,7 @@ Aufgrund der Interdiziplinarität meiner beiden Studienfächer, konnte ich berei
 </p> 
 
 <p align="center">
-<a href="https://github.com/JanaK-L/GIS_Modell_Integration#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" width="300" alt="Bacterial Loading Modell: Der Durchfluss [m^3/a] und die berechnete Bakterienfrachtkonzentration [cfu/a mit cfu = colony forming unit = Zahl coliformer Bakterien] im Untersuchungsgebiet." title="Bacterial Loading Modell: Der Durchfluss [m^3/a] und die berechnete Bakterienfrachtkonzentration [cfu/a mit cfu = colony forming unit = Zahl coliformer Bakterien] im Untersuchungsgebiet."/></a>  
+<a href="https://github.com/JanaK-L/GIS_Modell_Integration#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" width="300" alt="GIS-Modell-Integration: Bacterial Loading Modell" title="GIS-Modell-Integration: Bacterial Loading Modell"/></a> 
 </p>  
   
 
