@@ -41,6 +41,6 @@ Work in Progress:
 * Powersim Anwendung?
 
 Future Work:
-* BA
+* Bachelorthesis
 * Scientific Python Programming Project
-* ML
+* Machine Learning Project
