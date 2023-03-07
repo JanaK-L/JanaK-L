@@ -29,7 +29,7 @@ Aufgrund der Interdiziplinarität meiner beiden Studienfächer, konnte ich berei
 ### Modellierung, GIS, Statistik, Powersim, PIM?
 <p align="left">
 <a href="https://github.com/JanaK-L/GIS_Modell_Integration#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" width="300" alt="GIS-Modell-Integration" title="GIS-Modell-Integration"/></a>  &nbsp; &nbsp; &nbsp; 
-<a href="" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Images/CorgKarte.png" width="300" alt="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel"/></a> 
+<a href="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Images/CorgKarte.png" width="300" alt="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel"/></a> 
 </p> 
 
 ### Android Apps
