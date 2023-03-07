@@ -5,7 +5,7 @@
 
 Daher studiere ich die Fächer Geoinformatik und Umweltsystemwissenschaft im Zweifächer-Bachelor. Nebenbei arbeite ich als studentische Forschungshilfskraft an der Universität Osnabrück sowie als Servicekraft im Restaurant am Wiehenpark.
 
-Aktuell befasse ich mich mit den Modulen Machine Learning, Scientific Python Programming und mit meiner Bachelorarbeit bezüglich des Themas "Das GreatER Modell".
+Aktuell befasse ich mich mit den Modulen Machine Learning, Scientific Python Programming und mit meiner Bachelorarbeit bezüglich des Themas "Derzeit noch vertraulich".
 
 ## **Werkzeuge**
 <p align="left">
@@ -26,10 +26,10 @@ Aktuell befasse ich mich mit den Modulen Machine Learning, Scientific Python Pro
 ## **Projekte**
 Aufgrund der Interdiziplinarität meiner beiden Studienfächer, konnte ich bereits unterschiedliche kleine Projekte absolvieren. Diese Projekte umfassen statistische und fernerkundliche Analysen sowie die umweltsystemwissenschaftliche Modellbildung raumbezogener Problemstellungen. Ebenso beinhalten sie die Implementierung und Anwendung ausgewählter Konzepte der Informatik.
 
-### Modellierung, GIS, Statistik, Powersim, PIM?
+### Modellierung, GIS, Statistik, (Coming soon: Powersim, PIM)
 <p align="left">
 <a href="https://github.com/JanaK-L/GIS_Modell_Integration#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" width="300" alt="GIS-Modell-Integration" title="GIS-Modell-Integration"/></a>  &nbsp; &nbsp; &nbsp; 
-<a href="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Images/CorgKarte.png" width="302" alt="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel"/></a> 
+<a href="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Images/CorgKarte.png" width="305" alt="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel"/></a> 
 </p> 
 
 ### Android Apps
@@ -38,7 +38,7 @@ Aufgrund der Interdiziplinarität meiner beiden Studienfächer, konnte ich berei
 <a href="https://github.com/JanaK-L/App_MeROS#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/App_MeROS/blob/main/images/MeROS2.png" width="243" alt="Applikation: MeROS - Meldesystem Radfahrender in Osnabrück" title="Applikation: MeROS - Meldesystem Radfahrender in Osnabrück"/></a>
 </p>  
   
-### Geosensornetzwerk, Rechnernetze, IT-Netzwerksicherheit
+### (Coming soon: Geosensornetzwerk, Rechnernetze, IT-Netzwerksicherheit)
 
 
 Future Work:
