@@ -1,5 +1,3 @@
-![RemoteSensing](https://github.com/JanaK-L/JanaK-L/blob/main/Images/Banner.png)
-
 <picture>
   <img alt="Remote Sensing" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Banner.png">
 </picture>
