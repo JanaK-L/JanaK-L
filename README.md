@@ -41,7 +41,7 @@ Aufgrund der Interdiziplinarität meiner beiden Studienfächer, konnte ich berei
   
 ### Analyse der Daten eines Geosensornetzwerkes (Coming soon: Rechnernetze, IT-Netzwerksicherheit)
 <p align="left">
-<a href="https://github.com/JanaK-L/GSN_RN_ITS#analyse-der-daten-eines-geosensornetzwerkes" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GSN_RN_ITS/blob/main/Geosensornetzwerke/filter.png" width="215" alt="Analyse der Daten eines Geosensornetzwerkes" title="Analyse der Daten eines Geosensornetzwerkes"/></a> &nbsp; &nbsp; &nbsp; 
+<a href="https://github.com/JanaK-L/GSN_RN_ITS#analyse-der-daten-eines-geosensornetzwerkes" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GSN_RN_ITS/blob/main/Geosensornetzwerke/filter.png" width="250" alt="Analyse der Daten eines Geosensornetzwerkes" title="Analyse der Daten eines Geosensornetzwerkes"/></a> &nbsp; &nbsp; &nbsp; 
 
 </p>  
 
