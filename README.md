@@ -42,7 +42,7 @@ Aufgrund der Interdiziplinarität meiner beiden Studienfächer, konnte ich berei
 ### Analyse der Daten eines Geosensornetzwerkes (Coming soon: Rechnernetze, IT-Netzwerksicherheit)
 <p align="left">
 <a href="https://github.com/JanaK-L/GSN_RN_ITS#analyse-der-daten-eines-geosensornetzwerkes" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GSN_RN_ITS/blob/main/Geosensornetzwerke/filter.png" width="300" alt="Analyse der Daten eines Geosensornetzwerkes" title="Analyse der Daten eines Geosensornetzwerkes"/></a> &nbsp; &nbsp; &nbsp; 
-<a href="https://github.com/JanaK-L/GSN_RN_ITS/blob/main/README.md#it--und-netzwerksicherheit" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GSN_RN_ITS/blob/main/IT-%20und%20Netzwerksicherheit/PA2.png" width="900" alt="Analyse der Daten eines Geosensornetzwerkes" title="Analyse der Daten eines Geosensornetzwerkes"/></a> &nbsp; &nbsp; &nbsp;
+<a href="https://github.com/JanaK-L/GSN_RN_ITS/blob/main/README.md#it--und-netzwerksicherheit" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GSN_RN_ITS/blob/main/IT-%20und%20Netzwerksicherheit/PA2.png" width="900" alt="Applied Cryptography - Echo System" title="Applied Cryptography - Echo System"/></a> &nbsp; &nbsp; &nbsp;
 </p>  
 
 
