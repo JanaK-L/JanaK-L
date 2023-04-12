@@ -23,8 +23,8 @@ Daher studiere ich die Fächer Geoinformatik und Umweltsystemwissenschaft im Zwe
 </p>
 
 
-## **Projekte**
-Aufgrund der Interdiziplinarität meiner beiden Studienfächer, konnte ich bereits unterschiedliche kleine Projekte absolvieren. Diese Projekte umfassen statistische und fernerkundliche Analysen sowie die umweltsystemwissenschaftliche Modellierung raumbezogener Problemstellungen. Ebenso beinhalten sie die Implementierung und Anwendung ausgewählter Konzepte der Informatik aus den Bereichen App Entwicklung und verschiedene kleine Client-Server Aufgabenstellungen.
+## **Mini - Projekte**
+Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkundungsdaten. Des Weiteren interessiere ich mich auch für diverse Aufgabenstellungen aus dem Bereich der Informatik und freue mich stets darüber, etwas Neues dazu zu lernen.
 
 ### Modellierung & GIS (... und auch ein wenig Statistik) (Coming soon: PIM)
 <p align="left">
@@ -48,6 +48,6 @@ Aufgrund der Interdiziplinarität meiner beiden Studienfächer, konnte ich berei
 
 Future Work:
 * Bachelorthesis
-* Scientific Python Programming Project
-* Machine Learning Project
+* Scientific Python Programming
+* Machine Learning
 * Drohnensensorik
