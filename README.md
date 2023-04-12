@@ -26,19 +26,19 @@ Daher studiere ich die Fächer Geoinformatik und Umweltsystemwissenschaft im Zwe
 ## **Mini - Projekte**
 Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkundungsdaten. Des Weiteren interessiere ich mich auch für diverse Aufgabenstellungen aus dem Bereich der Informatik und freue mich stets darüber, etwas Neues dazu zu lernen.
 
-#### Modellierung & GIS (... und auch ein wenig Statistik) (Coming soon: PIM)
+### Modellierung & GIS (... und auch ein wenig Statistik) (Coming soon: PIM)
 <p align="left">
 <a href="https://github.com/JanaK-L/GIS_Modell_Integration#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" width="300" alt="GIS-Modell-Integration" title="GIS-Modell-Integration"/></a>  &nbsp; &nbsp; &nbsp; 
 <a href="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Images/CorgKarte.png" width="304" alt="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel"/></a> 
 </p> 
 
-#### Android Apps
+### Android Apps
 <p align="left">
 <a href="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/klasse4.jpg" width="215" alt="Android Applikation: Fahrradwegbeschaffenheit" title="Android Applikation: Fahrradwegbeschaffenheit"/></a> &nbsp; &nbsp; &nbsp; 
 <a href="https://github.com/JanaK-L/App_MeROS#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/App_MeROS/blob/main/images/MeROS2.png" width="243" alt="Applikation: MeROS - Meldesystem Radfahrender in Osnabrück" title="Applikation: MeROS - Meldesystem Radfahrender in Osnabrück"/></a>
 </p>  
   
-#### Ausflug in die Welt der Socketprogrammierung und Rechnernetze 
+### Ausflug in die Welt der Socketprogrammierung und Rechnernetze 
 <p align="left">
 <a href="https://github.com/JanaK-L/GSN_RN_ITS#analyse-der-daten-eines-geosensornetzwerkes" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GSN_RN_ITS/blob/main/Geosensornetzwerke/filter.png" width="300" alt="Analyse der Daten eines Geosensornetzwerkes" title="Analyse der Daten eines Geosensornetzwerkes"/></a>
 <a href="https://github.com/JanaK-L/GSN_RN_ITS/blob/main/README.md#rechnernetze" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GSN_RN_ITS/blob/main/Rechnernetze/TCP%20Ticket%20Server/TestingTheServer.png" width="600" alt="Rechnernetze" title="Rechnernetze"/></a> &nbsp; &nbsp; &nbsp;  
