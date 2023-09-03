@@ -44,5 +44,5 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 </p>  
 
 
-Current Work:
-* Bachelorthesis
+### Current Work:
+* Bachelorthesis: Erfassung der Waldbrandstärke mittels Sentinel-2 Daten und maschinellen Lernens
