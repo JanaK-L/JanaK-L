@@ -38,7 +38,7 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 <a href="https://github.com/JanaK-L/App_MeROS#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/App_MeROS/blob/main/images/MeROS2.png" width="243" alt="Applikation: MeROS - Meldesystem Radfahrender in Osnabrück" title="Applikation: MeROS - Meldesystem Radfahrender in Osnabrück"/></a>
 </p>  
   
-### Ausflug in die Welt der Socketprogrammierung und Geosensornetzwerke
+### Ausflug in die Welt der Socketprogrammierung und der Geosensornetzwerke 💔
 <p align="left">
 <a href="https://github.com/JanaK-L/GSN_RN_ITS#analyse-der-daten-eines-geosensornetzwerkes" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GSN_RN_ITS/blob/main/Geosensornetzwerke/filter.png" width="300" alt="Analyse der Daten eines Geosensornetzwerkes" title="Analyse der Daten eines Geosensornetzwerkes"/></a>
 </p>  
