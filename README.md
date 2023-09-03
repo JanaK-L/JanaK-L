@@ -5,7 +5,9 @@
 ## Jana Kombrink-Lübbe
 **_Die Analyse von Fernerkundungsdaten stellt für nahezu jede raumbezogene Fragestellung eine maßgebende Entscheidungshilfe dar. Insbesondere in Zeiten des Artensterbens und des Klimawandels ist die Fernerkundung ein nicht mehr wegzudenkendes Instrument zur Untersuchung der Gesundheit unseres Planeten geworden._**
 
-Daher studiere ich die Fächer Geoinformatik und Umweltsystemwissenschaft im Zweifächer-Bachelor. Nebenbei arbeite ich als studentische Forschungshilfskraft  für die Arbeitsgruppe "Remote Sensing and Digital Image Analysis" der Universität Osnabrück.
+Daher studiere ich die Fächer Geoinformatik und Umweltsystemwissenschaft im Zweifächer-Bachelor. Nebenbei arbeite ich als studentische Forschungshilfskraft für die Arbeitsgruppe Remote Sensing and Digital Image Analysis der Universität Osnabrück.
+
+Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkundungsdaten. Des Weiteren interessiere ich mich auch für diverse Aufgabenstellungen aus den Bereichen der Informatik und des maschinellen Lernens. Darüber hinaus freue ich mich stets darüber, etwas Neues dazu lernen zu können.
 
 
 ## **Werkzeuge**
@@ -24,8 +26,6 @@ Daher studiere ich die Fächer Geoinformatik und Umweltsystemwissenschaft im Zwe
 
 
 ## **Mini - Projekte**
-Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkundungsdaten. Des Weiteren interessiere ich mich auch für diverse Aufgabenstellungen aus dem Bereich der Informatik und freue mich stets darüber, etwas Neues dazu zu lernen.
-
 ### Modellierung & GIS (... und auch ein wenig Statistik) (Coming soon: PIM)
 <p align="left">
 <a href="https://github.com/JanaK-L/GIS_Modell_Integration#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" width="300" alt="GIS-Modell-Integration" title="GIS-Modell-Integration"/></a>  &nbsp; &nbsp; &nbsp; 
@@ -38,16 +38,11 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 <a href="https://github.com/JanaK-L/App_MeROS#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/App_MeROS/blob/main/images/MeROS2.png" width="243" alt="Applikation: MeROS - Meldesystem Radfahrender in Osnabrück" title="Applikation: MeROS - Meldesystem Radfahrender in Osnabrück"/></a>
 </p>  
   
-### Ausflug in die Welt der Socketprogrammierung und Rechnernetze 
+### Ausflug in die Welt der Socketprogrammierung und Geosensornetzwerke
 <p align="left">
 <a href="https://github.com/JanaK-L/GSN_RN_ITS#analyse-der-daten-eines-geosensornetzwerkes" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GSN_RN_ITS/blob/main/Geosensornetzwerke/filter.png" width="300" alt="Analyse der Daten eines Geosensornetzwerkes" title="Analyse der Daten eines Geosensornetzwerkes"/></a>
-<a href="https://github.com/JanaK-L/GSN_RN_ITS/blob/main/README.md#rechnernetze" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GSN_RN_ITS/blob/main/Rechnernetze/TCP%20Ticket%20Server/TestingTheServer.png" width="900" alt="Rechnernetze" title="Rechnernetze"/></a> &nbsp; &nbsp; &nbsp;  
-<a href="https://github.com/JanaK-L/GSN_RN_ITS/blob/main/README.md#it--und-netzwerksicherheit" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GSN_RN_ITS/blob/main/IT-%20und%20Netzwerksicherheit/PA2.png" width="900" alt="Applied Cryptography - Echo System" title="Applied Cryptography - Echo System"/></a> &nbsp; &nbsp; &nbsp;
 </p>  
 
 
-Future Work:
+Current Work:
 * Bachelorthesis
-* Scientific Python Programming
-* Machine Learning
-* Drohnensensorik
