@@ -12,7 +12,7 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 
 # **Mini - Projekte**
 <p>
-<img  align="left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Bakterien_Frachtkonzentration.png" width="300" alt="Modellierung des Transports von E. Coli Bakterien" title="Modellierung des Transports von E. Coli Bakterien"/>
+<img  align="left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Bakterien_Frachtkonzentration.png" width="300" alt="Modellierung des Transports von E. Coli Bakterien" title="Modellierung des Transports von E. Coli Bakterien (hier Bakterienkonzentration)"/>
 
 ## Integration von Modellen in Geoinformationssysteme
 
@@ -38,7 +38,7 @@ Diese Arbeit befasst sich mit der Herleitung von empirisch statistischen Modelle
 <br/>
 
 <p>
-<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Waldfragmentierung.png" width="304" alt="Modellierung fragmentierter Waldflächen im zellulären Automaten" title="Modellierung fragmentierter Waldflächen im zellulären Automaten"/>
+<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Waldfragmentierung.png" width="420" alt="Modellierung fragmentierter Waldflächen im zellulären Automaten" title="Modellierung fragmentierter Waldflächen im zellulären Automaten"/>
 
 ## Perkolation simulierter Waldflächen
 
