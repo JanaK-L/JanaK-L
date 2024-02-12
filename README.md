@@ -60,7 +60,7 @@ Simulation und Analyse der Fragmentierung von Waldflächen anhand eines binären
 
 ## Decision Tree Regression zur Schätzung der Brandschwere
 
-Gruppenarbeit mit <a href="https://github.com/lenbecker" target="_blank" rel="noreferrer">Lennard Becker<a/>:<br/>
+Gruppenarbeit mit <a href="https://github.com/lenbecker" target="_blank" rel="noreferrer">Lennart Becker<a/>:<br/>
 Schätzung und Visualisierung der Brandschwere mit Hilfe eines Decision Tree Regressors sowie des Differenced Normalized Burn Ratio
 
 </p> 
@@ -111,10 +111,10 @@ Calculating the International Roughness Index based on GPS and Accelerometer sen
 
 Unten: Gruppenarbeit mit <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>,
 <a href="https://github.com/sandrah99" target="_blank" rel="noreferrer">Sandra Huntemann<a/>,
-<a href="https://github.com/FreeElektron" target="_blank" rel="noreferrer">Andre Edouard Paul Marie<a/>,
+<a href="https://github.com/FreeElektron" target="_blank" rel="noreferrer">Andre Edouard<a/>,
 <a href="https://github.com/oliverschuette" target="_blank" rel="noreferrer">Oliver Schütte<a/>,
 <a href="https://github.com/ak-uos" target="_blank" rel="noreferrer">Anton Kirsten<a/>,
-<a href="https://github.com/MiriamRoh" target="_blank" rel="noreferrer">Miriam Rohland<a/>,:<br/>
+<a href="https://github.com/MiriamRoh" target="_blank" rel="noreferrer">Miriam Rohland<a/>:<br/>
 Fiktives Straßenschäden Melde- und Informationssystem für Bürger und Kontrollinstanzen der Gemeinde Kirchgellersen und Südergellersen bei Lüneburg unter Verwendung der Frameworks Django und Angular
 
 </p> 
