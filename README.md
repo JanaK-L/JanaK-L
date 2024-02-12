@@ -54,9 +54,9 @@ Simulation und Analyse der Fragmentierung von Waldflächen anhand eines binären
 
 
 <p>
-<img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/BurnSeverityDecisionTreeRegression.png" width="350" alt="Decision Tree Regression der Brandschwere" title="Decision Tree Regression der Brandschwere"/>
+<img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/BurnSeverityDecisionTreeRegression.png" width="410" alt="Visualisierung des Ergebnis der Decision Tree Regression zur Schätzung der Brandschwere" title="Visualisierung des Ergebnis der Decision Tree Regression zur Schätzung der Brandschwere"/>
 
-## Decision Tree Regression der Brandschwere
+## Decision Tree Regression zur Schätzung der Brandschwere
 
 Gruppenarbeit mit <a href="https://github.com/lenbecker" target="_blank" rel="noreferrer">Lennard Becker<a/>:<br/>
 Schätzung und Visualisierung der Brandschwere mit Hilfe eines Decision Tree Regressors sowie des Differenced Normalized Burn Ratio
@@ -65,6 +65,21 @@ Schätzung und Visualisierung der Brandschwere mit Hilfe eines Decision Tree Reg
 
 <br/>
 <br/>
+
+
+<p>
+<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/BurnSeveritySVMRegressionEnsembleSynthMix.png" width="410" alt="" title="Ergebnis der spektralen Entmischungsanalyse mit Support Vector Regression Ensemble und synthetisch gemischten Trainingsdaten"/>
+
+## Support Vector Regression Ensemble zur Ermittlung der Brandschwere
+
+Bachelorarbeit:<br/>
+Spektrale Entmischungsanalyse im Rahmen eines Support Vector Regressions Ensembles mit synthetisch gemischten Trainingsdaten zur Schätzung der Brandschwere
+
+</p> 
+
+<br/>
+<br/>
+
 
 
 
