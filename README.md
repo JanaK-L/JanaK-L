@@ -96,14 +96,13 @@ Gruppenarbeit mit ???:<br/>
 <br/>
 <br/>
 
-<center>
-<h2> Android Appentwicklung </h2>
-</center>
+
+## Android Appentwicklung
 <p>
 <img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/MeldesystemRadfahrenderOsnabr%C3%BCck.png" width="243" alt="Meldesystem Radfahrender in Osnabrück" title="Meldesystem Radfahrender in Osnabrück"/>
 <img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/International%20Roughness%20Index.jpg" width="215" alt="International Roughness Index Calculator for bicycles" title="International Roughness Index Calculator for bicycles"/>
 
-</center>
+<center>
 Links: Gruppenarbeit mit  <a href="https://github.com/magda210" target="_blank" rel="noreferrer">Magdalena Lechtermann<a/>:<br/>
 Fiktives Meldesystem für Beeinträchtigungen Radfahrender in Osnabrück
 
