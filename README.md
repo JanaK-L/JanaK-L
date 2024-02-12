@@ -68,7 +68,7 @@ Schätzung und Visualisierung der Brandschwere mit Hilfe eines Decision Tree Reg
 
 
 <p>
-<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/BurnSeveritySVMRegressionEnsembleSynthMix.png" width="410" alt="" title="Ergebnis der spektralen Entmischungsanalyse mit Support Vector Regression Ensemble und synthetisch gemischten Trainingsdaten"/>
+<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/BurnSeveritySVMRegressionEnsembleSynthMix.png" width="370" alt="" title="Ergebnis der spektralen Entmischungsanalyse mit Support Vector Regression Ensemble und synthetisch gemischten Trainingsdaten"/>
 
 ## Support Vector Regression Ensemble zur Ermittlung der Brandschwere
 
