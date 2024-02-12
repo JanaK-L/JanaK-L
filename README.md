@@ -52,13 +52,38 @@ Simulation und Analyse der Fragmentierung von Waldflächen anhand eines binären
 <br/>
 <br/>
 
+
+<p>
+<img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/BurnSeverityDecisionTreeRegression.png" width="350" alt="Decision Tree Regression der Brandschwere" title="Decision Tree Regression der Brandschwere"/>
+
+## Decision Tree Regression der Brandschwere
+
+Gruppenarbeit mit <a href="https://github.com/lenbecker" target="_blank" rel="noreferrer">Lennard Becker<a/>:<br/>
+Klassifikation der Brandschwere mit Hilfe einer Decision Tree Regression sowie des Differenced Normalized Burn Ratio
+
+</p> 
+
+<br/>
+<br/>
+
+
+
+
+
+
+
+
+
+
+
+
 * Scipy  
 * Bachelorarbeit
 * WebPortal
 * GEE
 * FMF
 
-
+https://github.com/JanaK-L/JanaK-L/blob/main/Images/BurnSeverityDecisionTreeRegression.png
 
 
 ## Android Appentwicklung
