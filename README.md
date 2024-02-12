@@ -97,7 +97,7 @@ Gruppenarbeit mit ???:<br/>
 <br/>
 
 <center>
-## Android Appentwicklung
+<h2> Android Appentwicklung </h2>
 </center>
 <p>
 <img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/MeldesystemRadfahrenderOsnabr%C3%BCck.png" width="243" alt="Meldesystem Radfahrender in Osnabrück" title="Meldesystem Radfahrender in Osnabrück"/>
