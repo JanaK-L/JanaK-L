@@ -32,13 +32,16 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 
 Verknüpfung räumlicher Aspekte mit formalisierten Abbildern der Wirklichkeit und zeitlichen Aspekten (Modelle):
 * Habitatsanalyse des Mückenfängers 🐦
-* Umsetzung der Revised Universal Soil Loss Equation–3D zur Modellierung von Bodenerosion
-* Hydrologische Analyse und Modellierung des Transportes von E. Coli Bakterien (Bakterienfracht und Bakterienkonzentration) in Oberflächengewässern im Fließgleichgewicht
+* Bodenerosionsmodellierung durch die Revised Universal Soil Loss Equation
+* Hydrologische Analyse und Modellierung des Transportes von E. Coli Bakterien (Bild links)
 * Urban Sprawl Modell in Form eines erweiterten zellulärern Automaten
+</p> 
+
 
 <img align = "right" src="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Images/CorgKarte.png" width="304" alt="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title = "test"/>
 
-</p> 
+
+
 
 ### Android Apps
 <p align="left">
