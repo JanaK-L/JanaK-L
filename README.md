@@ -30,11 +30,11 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 
 # Geoinformationssystem - Modellintegration
 
-Verknüpfung räumlicher Aspekte mit formalisierten Abbildern der Wirklichkeit und zeitlichen Aspekten (Modelle):
-* Habitatsanalyse des Mückenfängers 🐦
-* Bodenerosionsmodellierung durch die Revised Universal Soil Loss Equation
-* Hydrologische Analyse und Modellierung des Transportes von E. Coli Bakterien (Bild links)
-* Urban Sprawl Modell in Form eines erweiterten zellulärern Automaten
+Verknüpfung räumlicher Aspekte mit formalisierten Modelle:
+- Habitatsanalyse des Mückenfängers 🐦
+- Bodenerosionsmodellierung durch die Revised Universal Soil Loss Equation
+- Hydrologische Analyse und Modellierung des Transportes von E. Coli Bakterien (Bild links)
+- Urban Sprawl Modell in Form eines erweiterten zellulärern Automaten
 </p> 
 
 
