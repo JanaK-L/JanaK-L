@@ -23,7 +23,11 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 * GEE
 * FMF
 
-  
+<figure>
+  <img src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" alt="Bakterien Frachtkonzentration" />
+  <figcaption>Bakterien Frachtkonzentration</figcaption>
+</figure>
+
 </p> 
 
 
