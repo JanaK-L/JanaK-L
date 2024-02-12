@@ -11,12 +11,6 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 
 
 ## **Mini - Projekte**
-### Modellierung & GIS
-<p align="left">
-<a href="https://github.com/JanaK-L/GIS_Modell_Integration#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" width="300" alt="GIS-Modell-Integration" title="GIS-Modell-Integration"/></a>  &nbsp; &nbsp; &nbsp; 
-<a href="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Images/CorgKarte.png" width="304" alt="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel"/></a> &nbsp; &nbsp; &nbsp;
-</p> 
-
 * Zellulärer Automat zur Waldfragmentierung
 * Scipy  
 * Bachelorarbeit
@@ -28,21 +22,23 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 <p>
 <img  align="left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Bakterien_Frachtkonzentration.png" width="300" alt="GIS-Modell-Integration" title="GIS-Modell-Integration"/>
 
-# Integration von Modellen in Geoinformationssysteme
+### Integration von Modellen in Geoinformationssysteme
 
-** Verknüpfung räumlicher Aspekte mit formalisierten Modellen: **
-- Habitatsanalyse für den Mückenfänger 🐦
-- Bodenerosionsmodellierung durch die Revised Universal Soil Loss Equation
-- Hydrologische Analyse und Modellierung des Transports von E. Coli Bakterien (Bild links)
-- Urban Sprawl Modell in Form eines erweiterten zellulären Automaten
+**Verknüpfung räumlicher Aspekte mit formalisierten Modellen:**
+&nbsp; &nbsp; - Habitatsanalyse für den Mückenfänger 🐦
+&nbsp; &nbsp; - Bodenerosionsmodellierung durch die Revised Universal Soil Loss Equation
+&nbsp; &nbsp; - Hydrologische Analyse und Modellierung des Transports von E. Coli Bakterien (Bild links)
+&nbsp; &nbsp; - Urban Sprawl Modell in Form eines erweiterten zellulären Automaten
 
 </p> 
 
 <p>
 <img align = "right" src="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Images/CorgKarte.png" width="304" alt="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title = "test"/>
 
-# 
+### Quantitative Analyse pedochemischer Eigenschaften
 
+Gruppenarbeit mit Clarissa Laibacher und <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/><br/>
+Diese Arbeit befasst sich mit der Herleitung von empirisch statistischen Modellen, um den Anteil der drei Bodenparametern organischer Kohlenstoff, anorganischer Kohlenstoff und Eisen in einem semiarid-ariden Untersuchungsgebiet in Israel zu schätzen.
 
 </p> 
 
