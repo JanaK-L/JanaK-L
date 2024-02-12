@@ -109,7 +109,7 @@ Fiktives Meldesystem für Beeinträchtigungen Radfahrender in Osnabrück
 Rechts: Gruppenarbeit mit  <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>:<br/>
 Calculating the International Roughness Index based on GPS and Accelerometer sensors on bicycle-mounted Android smartphones
 
-<img align = "center" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Schaden%20Informationssystem.png" width="320" alt="" title=""/>
+<img src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Schaden%20Informationssystem.png" width="420" alt="Straßenschäden Melde- und Informationssystem" title="Straßenschäden Melde- und Informationssystem"/>
 Unten: Gruppenarbeit mit <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>:<br/>
 Fiktives Straßenschäden Melde- und Informationssystem für Bürger und Kontrollinstanzen der Gemeinde Kirchgellersen und Südergellersen bei Lüneburg unter Verwendung der Frameworks Django und Angular
 
@@ -128,7 +128,6 @@ Fiktives Straßenschäden Melde- und Informationssystem für Bürger und Kontrol
 ## Datenverarbeitung eines Geosensornetzwerkes
 
 Verarbeitung von Leaf Area Index Daten eines Geosensornetzwerkes mit Hilfe des Tools Node-RED
-
 
 </p> 
 
