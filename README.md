@@ -114,7 +114,7 @@ Fiktives Straßenschäden Melde- und Informationssystem für Bürger und Kontrol
 
 </p> 
 
-<img align = "center" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Schaden%20Informationssystem.png" width="420" alt="Straßenschäden Melde- und Informationssystem" title="Straßenschäden Melde- und Informationssystem"/>
+<img align = "center" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Schaden%20Informationssystem.png" width="520" alt="Straßenschäden Melde- und Informationssystem" title="Straßenschäden Melde- und Informationssystem"/>
 
 <br/>
 <br/>
