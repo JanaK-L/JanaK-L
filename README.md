@@ -28,7 +28,7 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 
 <p align="left">
   <img src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" width="300" alt="GIS-Modell-Integration" title="GIS-Modell-Integration"/>
-  <img src="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Images/CorgKarte.png" width="304" alt="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel"/>
+  <img src="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Images/CorgKarte.png" width="304" alt="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title = "test"/>
 </p> 
 
 ### Android Apps
