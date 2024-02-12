@@ -24,16 +24,12 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 * FMF
 </p> 
 
-<figure>
+<figure align = "center">
   <img src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" alt width="300"/>
   <figcaption>Bakterien Frachtkonzentration</figcaption>
 </figure>
 
 
-<p align = "center">
-    <img src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" width="300" alt>
-    <em>image_caption</em>
-</p>
 
 
 ### Android Apps
