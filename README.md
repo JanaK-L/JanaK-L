@@ -13,21 +13,23 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 
 ## **Mini - Projekte**
 ### Modellierung & GIS
-<p align="center">
+<p align="left">
 <a href="https://github.com/JanaK-L/GIS_Modell_Integration#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" width="300" alt="GIS-Modell-Integration" title="GIS-Modell-Integration"/></a>  &nbsp; &nbsp; &nbsp; 
 <a href="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Images/CorgKarte.png" width="304" alt="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel"/></a> &nbsp; &nbsp; &nbsp;
+</p> 
 
-  
 * Zellulärer Automat zur Waldfragmentierung
 * Scipy  
 * Bachelorarbeit
 * WebPortal
 * GEE
 * FMF
+  
+
+<p align="left">
+<img  src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" width="300" />
+<img  src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" width="300"  /> 
 </p> 
-
-
-
 
 ### Android Apps
 <p align="left">
