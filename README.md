@@ -86,13 +86,19 @@ Spektrale Entmischungsanalyse im Rahmen eines Support Vector Regression Ensemble
 <p>
 <img align = "right" src="" width="320" alt="" title=""/>
 
-## Multitemporal Crop Classification und Deep Learning: The _"Cropformer"_ is coming (soon)! 🚜
+## Multitemporal Crop Classification and Deep Learning: The _"Cropformer"_ is coming (soon)! 🚜
 
 Gruppenarbeit mit ???:<br/>
 
 
 </p> 
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
@@ -126,7 +132,7 @@ Fiktives Straßenschäden Melde- und Informationssystem für Bürger und Kontrol
 
 
 <p>
-<img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/GeosensornetzwerkFilter.png" width="320" alt="Filter zur Verarbeitung der Geosensornetzwerkdaten" title="Filter zur Verarbeitung der Geosensornetzwerkdaten"/>
+<img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/GeosensornetzwerkFilter.png" width="220" alt="Filter zur Verarbeitung der Geosensornetzwerkdaten" title="Filter zur Verarbeitung der Geosensornetzwerkdaten"/>
 
 ## Datenverarbeitung eines Geosensornetzwerkes
 
