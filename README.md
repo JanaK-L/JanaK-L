@@ -97,7 +97,7 @@ Gruppenarbeit mit ???:<br/>
 <br/>
 
 
-## Android Appentwicklung
+## Android Appentwicklung und Webentwicklung
 <p>
 <img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/MeldesystemRadfahrenderOsnabr%C3%BCck.png" width="193" alt="Meldesystem Radfahrender in Osnabrück" title="Meldesystem Radfahrender in Osnabrück"/>
 <img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/International%20Roughness%20Index.jpg" width="165" alt="International Roughness Index Calculator for bicycles" title="International Roughness Index Calculator for bicycles"/>
@@ -109,6 +109,9 @@ Fiktives Meldesystem für Beeinträchtigungen Radfahrender in Osnabrück
 Rechts: Gruppenarbeit mit  <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>:<br/>
 Calculating the International Roughness Index based on GPS and Accelerometer sensors on bicycle-mounted Android smartphones
 
+<img align = "center" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Schaden%20Informationssystem.png" width="320" alt="" title=""/>
+Unten: Gruppenarbeit mit <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>:<br/>
+Fiktives Straßenschäden Melde- und Informationssystem für Bürger und Kontrollinstanzen der Gemeinde Kirchgellersen und Südergellersen bei Lüneburg unter Verwendung der Frameworks Django und Angular
 
 </p> 
 
@@ -117,34 +120,7 @@ Calculating the International Roughness Index based on GPS and Accelerometer sen
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
-
-
-<p>
-<img align = "right" src="" width="320" alt="" title=""/>
-
-## Webportal coming soon
-
-Gruppenarbeit mit 9 Leuten:<br/>
-Fiktives Webportal zur Meldung von Straßenschäden für Bürger und städtisches Kontrollpersonal
-
-</p> 
-
-<br/>
-<br/>
-
-
-
-</p>  
 
 <p>
 <img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/GeosensornetzwerkFilter.png" width="320" alt="Filter zur Verarbeitung der Geosensornetzwerkdaten" title="Filter zur Verarbeitung der Geosensornetzwerkdaten"/>
