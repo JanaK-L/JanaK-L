@@ -112,9 +112,9 @@ Calculating the International Roughness Index based on GPS and Accelerometer sen
 Unten: Gruppenarbeit mit <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>:<br/>
 Fiktives Straßenschäden Melde- und Informationssystem für Bürger und Kontrollinstanzen der Gemeinde Kirchgellersen und Südergellersen bei Lüneburg unter Verwendung der Frameworks Django und Angular
 
-<img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Schaden%20Informationssystem.png" width="420" alt="Straßenschäden Melde- und Informationssystem" title="Straßenschäden Melde- und Informationssystem"/>
-
 </p> 
+
+<img align = "center" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Schaden%20Informationssystem.png" width="420" alt="Straßenschäden Melde- und Informationssystem" title="Straßenschäden Melde- und Informationssystem"/>
 
 <br/>
 <br/>
