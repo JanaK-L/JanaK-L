@@ -22,8 +22,12 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 * WebPortal
 * GEE
 * FMF
+
   
 </p> 
+
+
+![alt](https://github.com/JanaK-L/App_MeROS/blob/main/images/MeROS2.png) ![alt](https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png)
 
 ### Android Apps
 <p align="left">
