@@ -26,21 +26,25 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
   
 
 <p>
-<img  align="left" src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" width="300" alt="GIS-Modell-Integration" title="GIS-Modell-Integration"/>
+<img  align="left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Bakterien_Frachtkonzentration.png" width="300" alt="GIS-Modell-Integration" title="GIS-Modell-Integration"/>
 
-# Geoinformationssystem - Modellintegration
+# Integration von Modellen in Geoinformationssysteme
 
-Verknüpfung räumlicher Aspekte mit formalisierten Modelle:
-- Habitatsanalyse des Mückenfängers 🐦
+** Verknüpfung räumlicher Aspekte mit formalisierten Modellen: **
+- Habitatsanalyse für den Mückenfänger 🐦
 - Bodenerosionsmodellierung durch die Revised Universal Soil Loss Equation
-- Hydrologische Analyse und Modellierung des Transportes von E. Coli Bakterien (Bild links)
-- Urban Sprawl Modell in Form eines erweiterten zellulärern Automaten
+- Hydrologische Analyse und Modellierung des Transports von E. Coli Bakterien (Bild links)
+- Urban Sprawl Modell in Form eines erweiterten zellulären Automaten
+
 </p> 
 
-
+<p>
 <img align = "right" src="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Images/CorgKarte.png" width="304" alt="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title = "test"/>
 
+# 
 
+
+</p> 
 
 
 ### Android Apps
