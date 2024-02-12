@@ -2,13 +2,12 @@
   <img alt="Remote Sensing" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Remote Sensing.png">
 </picture>
 
-## Jana Kombrink-Lübbe 
+## Jana Kombrink-Lübbe 🐕
 **_Die Analyse von Fernerkundungsdaten stellt für raumbezogene Fragestellungen eine maßgebende Entscheidungshilfe dar. Insbesondere in Zeiten des Artensterbens und des Klimawandels dient die Fernerkundung als nützliches Instrument zur Untersuchung der Gesundheit unseres Planeten._**
 
-Daher studiere ich die Fächer Geoinformatik und Umweltsystemwissenschaft im Zweifächer-Bachelor. Nebenbei arbeite ich als studentische Forschungshilfskraft für die Arbeitsgruppe _Remote Sensing and Digital Image Analysis_ der Universität Osnabrück.
+Daher studiere ich die Fächer Geoinformatik und Umweltsystemwissenschaft im Zweifächer-Bachelor. Nebenbei arbeite ich als studentische Forschungshilfskraft für die Arbeitsgruppe **_Remote Sensing and Digital Image Analysis_** der Universität Osnabrück.
 
-Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkundungsdaten. Des Weiteren interessiere ich mich auch für diverse Aufgabenstellungen aus den Bereichen der Informatik und des maschinellen Lernens. Darüber hinaus freue ich mich stets darüber, etwas Neues dazu lernen zu können.
-
+Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkundungsdaten. Des Weiteren interessiere ich mich auch für diverse Aufgabenstellungen aus den Bereichen der Informatik und des maschinellen Lernens. Zudem freue ich mich stets darüber, etwas Neues dazu lernen zu können.
 
 
 ## **Mini - Projekte**
@@ -26,14 +25,19 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 * FMF
   
 
-<p align="left">
-  <img  align="left" src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" width="300" alt="GIS-Modell-Integration" title="GIS-Modell-Integration"/>
+<p>
+<img  align="left" src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" width="300" alt="GIS-Modell-Integration" title="GIS-Modell-Integration"/>
 
-  # test
+# Geoinformationssystem - Modellintegration
 
-  Some text
+Wissenschaft und Management benötigen vielfach Methoden zur Bearbeitung raumzeitlicher Fragestellungen. Daher ist die Verknüpfung räumlicher Aspekte mit formalisierten Abbildern der Wirklichkeit und zeitlichen Aspekten (Modelle) ein wichtiges Thema. Die Anwendungsbereiche sind zahlreich und höchst divers:
+* Habitatsanalyse des Mückenfängers 🐦
+* Universal Soil Loss Equation (USLE)
+* Hydrologische Analyse, Bacterial Loading Model, SCS-CN Loss Modell
+* Urban Sprawl mit erweitertem CA
 
-  <img src="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Images/CorgKarte.png" width="304" alt="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title = "test"/>
+<img align = "right" src="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Images/CorgKarte.png" width="304" alt="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title = "test"/>
+
 </p> 
 
 ### Android Apps
