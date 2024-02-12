@@ -99,8 +99,8 @@ Gruppenarbeit mit ???:<br/>
 
 ## Android Appentwicklung
 <p>
-<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/MeldesystemRadfahrenderOsnabr%C3%BCck.png" width="243" alt="Meldesystem Radfahrender in Osnabrück" title="Meldesystem Radfahrender in Osnabrück"/>
-<img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/International%20Roughness%20Index.jpg" width="215" alt="International Roughness Index Calculator for bicycles" title="International Roughness Index Calculator for bicycles"/>
+<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/MeldesystemRadfahrenderOsnabr%C3%BCck.png" width="193" alt="Meldesystem Radfahrender in Osnabrück" title="Meldesystem Radfahrender in Osnabrück"/>
+<img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/International%20Roughness%20Index.jpg" width="165" alt="International Roughness Index Calculator for bicycles" title="International Roughness Index Calculator for bicycles"/>
 
 
 Links: Gruppenarbeit mit  <a href="https://github.com/magda210" target="_blank" rel="noreferrer">Magdalena Lechtermann<a/>:<br/>
@@ -154,7 +154,7 @@ Fiktives Webportal zur Meldung von Straßenschäden für Bürger und städtische
 </p>  
 
 <p>
-<img align = "right" src="" width="320" alt="" title=""/>
+<img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/GeosensornetzwerkFilter.png" width="320" alt="Filter zur Verarbeitung der Geosensornetzwerkdaten" title="Filter zur Verarbeitung der Geosensornetzwerkdaten"/>
 
 ## Datenverarbeitung eines Geosensornetzwerkes
 
