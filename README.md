@@ -59,7 +59,7 @@ Simulation und Analyse der Fragmentierung von Waldflächen anhand eines binären
 ## Decision Tree Regression der Brandschwere
 
 Gruppenarbeit mit <a href="https://github.com/lenbecker" target="_blank" rel="noreferrer">Lennard Becker<a/>:<br/>
-Klassifikation der Brandschwere mit Hilfe einer Decision Tree Regression sowie des Differenced Normalized Burn Ratio
+Schätzung und Visualisierung der Brandschwere mit Hilfe eines Decision Tree Regressors sowie des Differenced Normalized Burn Ratio
 
 </p> 
 
