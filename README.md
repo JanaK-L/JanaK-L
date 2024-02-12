@@ -99,7 +99,7 @@ Gruppenarbeit mit ???:<br/>
 
 ## Android Appentwicklung und Webentwicklung
 <p>
-<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/MeldesystemRadfahrenderOsnabr%C3%BCck.png" width="193" alt="Meldesystem Radfahrender in Osnabrück" title="Meldesystem Radfahrender in Osnabrück"/>
+<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/MeldesystemRadfahrenderOsnabr%C3%BCck.png" width="180" alt="Meldesystem Radfahrender in Osnabrück" title="Meldesystem Radfahrender in Osnabrück"/>
 <img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/International%20Roughness%20Index.jpg" width="165" alt="International Roughness Index Calculator for bicycles" title="International Roughness Index Calculator for bicycles"/>
 
 
@@ -109,7 +109,12 @@ Fiktives Meldesystem für Beeinträchtigungen Radfahrender in Osnabrück
 Rechts: Gruppenarbeit mit  <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>:<br/>
 Calculating the International Roughness Index based on GPS and Accelerometer sensors on bicycle-mounted Android smartphones
 
-Unten: Gruppenarbeit mit <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>:<br/>
+Unten: Gruppenarbeit mit <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>,
+<a href="https://github.com/sandrah99" target="_blank" rel="noreferrer">Sandra Huntemann<a/>,
+<a href="https://github.com/FreeElektron" target="_blank" rel="noreferrer">Andre Edouard Paul Marie<a/>,
+<a href="https://github.com/oliverschuette" target="_blank" rel="noreferrer">Oliver Schütte<a/>,
+<a href="https://github.com/ak-uos" target="_blank" rel="noreferrer">Anton Kirsten<a/>,
+<a href="https://github.com/MiriamRoh" target="_blank" rel="noreferrer">Miriam Rohland<a/>,:<br/>
 Fiktives Straßenschäden Melde- und Informationssystem für Bürger und Kontrollinstanzen der Gemeinde Kirchgellersen und Südergellersen bei Lüneburg unter Verwendung der Frameworks Django und Angular
 
 </p> 
