@@ -30,11 +30,11 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 
 # Geoinformationssystem - Modellintegration
 
-Wissenschaft und Management benötigen vielfach Methoden zur Bearbeitung raumzeitlicher Fragestellungen. Daher ist die Verknüpfung räumlicher Aspekte mit formalisierten Abbildern der Wirklichkeit und zeitlichen Aspekten (Modelle) ein wichtiges Thema. Die Anwendungsbereiche sind zahlreich und höchst divers:
+Verknüpfung räumlicher Aspekte mit formalisierten Abbildern der Wirklichkeit und zeitlichen Aspekten (Modelle):
 * Habitatsanalyse des Mückenfängers 🐦
-* Universal Soil Loss Equation (USLE)
-* Hydrologische Analyse, Bacterial Loading Model, SCS-CN Loss Modell
-* Urban Sprawl mit erweitertem CA
+* Umsetzung der Revised Universal Soil Loss Equation–3D zur Modellierung von Bodenerosion
+* Hydrologische Analyse und Modellierung des Transportes von E. Coli Bakterien (Bakterienfracht und Bakterienkonzentration) in Oberflächengewässern im Fließgleichgewicht
+* Urban Sprawl Modell in Form eines erweiterten zellulärern Automaten
 
 <img align = "right" src="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Images/CorgKarte.png" width="304" alt="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title = "test"/>
 
