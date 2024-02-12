@@ -26,6 +26,8 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 
 <figure align = "center">
   <img src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" alt width="300"/>
+  <img src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" alt width="300"/>
+  <figcaption>Bakterien Frachtkonzentration</figcaption>
   <figcaption>Bakterien Frachtkonzentration</figcaption>
 </figure>
 
