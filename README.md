@@ -22,16 +22,19 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 * WebPortal
 * GEE
 * FMF
+</p> 
 
 <figure>
-  <img src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" alt="Bakterien Frachtkonzentration" />
+  <img src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" alt="Bakterien Frachtkonzentration" width="300"/>
   <figcaption>Bakterien Frachtkonzentration</figcaption>
 </figure>
 
-</p> 
 
+<p>
+    <img src="https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png" width="300" alt>
+    <em>image_caption</em>
+</p>
 
-![alt](https://github.com/JanaK-L/App_MeROS/blob/main/images/MeROS2.png) ![alt](https://github.com/JanaK-L/GIS_Modell_Integration/blob/main/images/Bakterien_Frachtkonzentration.png)
 
 ### Android Apps
 <p align="left">
