@@ -10,7 +10,7 @@ Daher studiere ich die Fächer Geoinformatik und Umweltsystemwissenschaft im Zwe
 Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkundungsdaten. Des Weiteren interessiere ich mich auch für diverse Aufgabenstellungen aus den Bereichen der Informatik und des maschinellen Lernens. Zudem freue ich mich stets darüber, etwas Neues dazu lernen zu können.
 
 
-# **Mini - Projekte**
+## **Mini-Studienprojekte**
 <p>
 <img  align="left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Bakterien_Frachtkonzentration.png" width="300" alt="Modellierung des Transports von E. Coli Bakterien" title="Modellierung des Transports von E. Coli Bakterien (hier Bakterienkonzentration)"/>
 
@@ -20,6 +20,7 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 - Bodenerosionsmodellierung durch die Revised Universal Soil Loss Equation
 - Hydrologische Analyse und Modellierung des Transports von E. Coli Bakterien (Bild links)
 - Urban Sprawl Modell in Form eines erweiterten zellulären Automaten
+
 </p> 
 
 <br/>
@@ -31,7 +32,8 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 ## Quantitative Analyse pedochemischer Eigenschaften
 
 Gruppenarbeit mit Clarissa Laibacher und <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>:<br/>
-Diese Arbeit befasst sich mit der Herleitung von empirisch statistischen Modellen, um den Anteil der drei Bodenparametern organischer Kohlenstoff, anorganischer Kohlenstoff und Eisen in einem semiarid-ariden Untersuchungsgebiet in Israel zu schätzen.
+Herleitung von empirisch statistischen Modellen, um den Anteil der drei Bodenparametern organischer Kohlenstoff, anorganischer Kohlenstoff und Eisen in einem semiarid-ariden Untersuchungsgebiet in Israel zu schätzen
+
 </p> 
 
 <br/>
@@ -43,7 +45,8 @@ Diese Arbeit befasst sich mit der Herleitung von empirisch statistischen Modelle
 ## Perkolation simulierter Waldflächen
 
 Gruppenarbeit mit <a href="https://github.com/annpohlmann" target="_blank" rel="noreferrer">Annika Pohlmann<a/>:<br/>
-Modellierung und Simulation der Fragmentierung von Waldflächen durch einen binären zellulären Automaten unter Anwendung des Hoshen-Kopelman Algorithmus und der Perkolationstheorie.
+Simulation und Analyse der Fragmentierung von Waldflächen anhand eines binären zellulären Automaten unter Anwendung des Hoshen-Kopelman Algorithmus und der Perkolationstheorie
+
 </p> 
 
 <br/>
@@ -58,11 +61,12 @@ Modellierung und Simulation der Fragmentierung von Waldflächen durch einen bin�
 
 
 
-## Android Apps
+## Android Appentwicklung
 <p align="left">
 <a href="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/klasse4.jpg" width="215" alt="Android Applikation: Fahrradwegbeschaffenheit" title="Android Applikation: Fahrradwegbeschaffenheit"/></a> &nbsp; &nbsp; &nbsp; 
 <a href="https://github.com/JanaK-L/App_MeROS#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/App_MeROS/blob/main/images/MeROS2.png" width="243" alt="Applikation: MeROS - Meldesystem Radfahrender in Osnabrück" title="Applikation: MeROS - Meldesystem Radfahrender in Osnabrück"/></a>
 </p>  
+
   
 ### Ausflug in die Welt der Socketprogrammierung und der Geosensornetzwerke 💔
 <p align="left">
