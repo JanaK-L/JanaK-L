@@ -26,6 +26,7 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 <br/>
 <br/>
 
+
 <p>
 <img align = "right" src="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Images/CorgKarte.png" width="304" alt="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel"/>
 
@@ -38,6 +39,7 @@ Herleitung von empirisch statistischen Modellen, um den Anteil der drei Bodenpar
 
 <br/>
 <br/>
+
 
 <p>
 <img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Waldfragmentierung.png" width="420" alt="Modellierung fragmentierter Waldflächen im zellulären Automaten" title="Modellierung fragmentierter Waldflächen im zellulären Automaten"/>
@@ -68,12 +70,45 @@ Schätzung und Visualisierung der Brandschwere mit Hilfe eines Decision Tree Reg
 
 
 <p>
-<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/BurnSeveritySVMRegressionEnsembleSynthMix.png" width="370" alt="" title="Ergebnis der spektralen Entmischungsanalyse mit Support Vector Regression Ensemble und synthetisch gemischten Trainingsdaten"/>
+<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/BurnSeveritySVMRegressionEnsembleSynthMix.png" width="320" alt="Ergebnis der spektralen Entmischungsanalyse mit Support Vector Regression Ensemble und synthetisch gemischten Trainingsdaten" title="Ergebnis der spektralen Entmischungsanalyse mit Support Vector Regression Ensemble und synthetisch gemischten Trainingsdaten"/>
 
 ## Spektrale Entmischungsanalyse und Support Vector Regression Ensemble zur Ermittlung der Brandschwere
 
 Bachelorarbeit:<br/>
-Spektrale Entmischungsanalyse im Rahmen eines Support Vector Regression Ensembles mit synthetisch gemischten Trainingsdaten zur Schätzung der Brandschwere
+Spektrale Entmischungsanalyse im Rahmen eines Support Vector Regression Ensembles mit synthetisch gemischten Trainingsdaten zur Schätzung der Brandschwere des Tinder Feuers im Coconino National Forest in Arizona
+
+</p> 
+
+<br/>
+<br/>
+
+
+<p>
+<img align = "right" src="" width="320" alt="" title=""/>
+
+## Multitemporal Crop Classification und Deep Learning: The _"Cropformer"_ is coming (soon)! 🚜
+
+Gruppenarbeit mit ???:<br/>
+
+
+</p> 
+
+<br/>
+<br/>
+
+
+<p>
+<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/MeldesystemRadfahrenderOsnabr%C3%BCck.png" width="320" alt="Meldesystem Radfahrender in Osnabrück" title="Meldesystem Radfahrender in Osnabrück"/>
+<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/International%20Roughness%20Index.jpg" width="320" alt="International Roughness Index Calculator for bicycles" title="International Roughness Index Calculator for bicycles"/>
+  
+## Android Appentwicklung
+
+Gruppenarbeit mit  <a href="https://github.com/magda210" target="_blank" rel="noreferrer">Magdalena Lechtermann<a/>:<br/>
+Meldesystem für Beeinträchtigungen Radfahrender in Osnabrück
+
+Gruppenarbeit mit  <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>:<br/>
+Calculating the International Roughness Index based on GPS and Accelerometer sensors on bicycle-mounted Android smartphones
+
 
 </p> 
 
@@ -85,27 +120,13 @@ Spektrale Entmischungsanalyse im Rahmen eines Support Vector Regression Ensemble
 
 
 
-
-
-
-
-
-
-
-* Scipy  
-* Bachelorarbeit
-* WebPortal
-* GEE
-* FMF
-
-https://github.com/JanaK-L/JanaK-L/blob/main/Images/BurnSeverityDecisionTreeRegression.png
-
-
 ## Android Appentwicklung
 <p align="left">
 <a href="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/klasse4.jpg" width="215" alt="Android Applikation: Fahrradwegbeschaffenheit" title="Android Applikation: Fahrradwegbeschaffenheit"/></a> &nbsp; &nbsp; &nbsp; 
 <a href="https://github.com/JanaK-L/App_MeROS#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/App_MeROS/blob/main/images/MeROS2.png" width="243" alt="Applikation: MeROS - Meldesystem Radfahrender in Osnabrück" title="Applikation: MeROS - Meldesystem Radfahrender in Osnabrück"/></a>
 </p>  
+
+WEBPORTAL
 
   
 ### Ausflug in die Welt der Socketprogrammierung und der Geosensornetzwerke 💔
