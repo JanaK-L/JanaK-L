@@ -103,11 +103,34 @@ Gruppenarbeit mit ???:<br/>
 <img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/International%20Roughness%20Index.jpg" width="215" alt="International Roughness Index Calculator for bicycles" title="International Roughness Index Calculator for bicycles"/>
 
 Links: Gruppenarbeit mit  <a href="https://github.com/magda210" target="_blank" rel="noreferrer">Magdalena Lechtermann<a/>:<br/>
-Meldesystem für Beeinträchtigungen Radfahrender in Osnabrück
+Fiktives Meldesystem für Beeinträchtigungen Radfahrender in Osnabrück
 
 Rechts: Gruppenarbeit mit  <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>:<br/>
 Calculating the International Roughness Index based on GPS and Accelerometer sensors on bicycle-mounted Android smartphones
 
+</p> 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<p>
+<img align = "right" src="" width="320" alt="" title=""/>
+
+## Webportal coming soon
+
+Gruppenarbeit mit 9 Leuten:<br/>
+Fiktives Webportal zur Meldung von Straßenschäden für Bürger und städtischem Kontrollpersonal
 
 </p> 
 
@@ -116,15 +139,24 @@ Calculating the International Roughness Index based on GPS and Accelerometer sen
 
 
 
-
-
-WEBPORTAL
-
   
 ### Ausflug in die Welt der Socketprogrammierung und der Geosensornetzwerke 💔
 <p align="left">
 <a href="https://github.com/JanaK-L/GSN_RN_ITS#analyse-der-daten-eines-geosensornetzwerkes" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/GSN_RN_ITS/blob/main/Geosensornetzwerke/filter.png" width="300" alt="Analyse der Daten eines Geosensornetzwerkes" title="Analyse der Daten eines Geosensornetzwerkes"/></a>
 </p>  
+
+<p>
+<img align = "right" src="" width="320" alt="" title=""/>
+
+## Datenverarbeitung eines Geosensornetzwerkes
+
+Verarbeitung von Leaf Area Index Daten eines Geosensornetzwerkes mit Hilfe des Tools Node-RED
+
+
+</p> 
+
+<br/>
+<br/>
 
 
 
