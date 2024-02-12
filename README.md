@@ -11,20 +11,11 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 
 
 # **Mini - Projekte**
-* Zellulärer Automat zur Waldfragmentierung
-* Scipy  
-* Bachelorarbeit
-* WebPortal
-* GEE
-* FMF
-  
-
 <p>
-<img  align="left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Bakterien_Frachtkonzentration.png" width="300" alt="GIS-Modell-Integration" title="GIS-Modell-Integration"/>
+<img  align="left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Bakterien_Frachtkonzentration.png" width="300" alt="Modellierung des Transports von E. Coli Bakterien" title="Modellierung des Transports von E. Coli Bakterien"/>
 
 ## Integration von Modellen in Geoinformationssysteme
 
-**Verknüpfung räumlicher Aspekte mit formalisierten Modellen:**
 - Habitatsanalyse für den Mückenfänger 🐦
 - Bodenerosionsmodellierung durch die Revised Universal Soil Loss Equation
 - Hydrologische Analyse und Modellierung des Transports von E. Coli Bakterien (Bild links)
@@ -35,19 +26,39 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 <br/>
 
 <p>
-<img align = "right" src="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Images/CorgKarte.png" width="304" alt="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title = "test"/>
+<img align = "right" src="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Images/CorgKarte.png" width="304" alt="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel"/>
 
 ## Quantitative Analyse pedochemischer Eigenschaften
 
-Gruppenarbeit mit Clarissa Laibacher und <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/><br/>
+Gruppenarbeit mit Clarissa Laibacher und <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>:<br/>
 Diese Arbeit befasst sich mit der Herleitung von empirisch statistischen Modellen, um den Anteil der drei Bodenparametern organischer Kohlenstoff, anorganischer Kohlenstoff und Eisen in einem semiarid-ariden Untersuchungsgebiet in Israel zu schätzen.
 </p> 
 
 <br/>
 <br/>
 
+<p>
+<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Waldfragmentierung.png" width="304" alt="Modellierung fragmentierter Waldflächen im zellulären Automaten" title="Modellierung fragmentierter Waldflächen im zellulären Automaten"/>
 
-### Android Apps
+## Perkolation simulierter Waldflächen
+
+Gruppenarbeit mit <a href="https://github.com/annpohlmann" target="_blank" rel="noreferrer">Annika Pohlmann<a/>:<br/>
+Modellierung und Simulation der Fragmentierung von Waldflächen durch einen binären zellulären Automaten unter Anwendung des Hoshen-Kopelman Algorithmus und der Perkolationstheorie.
+</p> 
+
+<br/>
+<br/>
+
+* Scipy  
+* Bachelorarbeit
+* WebPortal
+* GEE
+* FMF
+
+
+
+
+## Android Apps
 <p align="left">
 <a href="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/AndroidApp_InternationalRoughnessIndex/blob/main/images/klasse4.jpg" width="215" alt="Android Applikation: Fahrradwegbeschaffenheit" title="Android Applikation: Fahrradwegbeschaffenheit"/></a> &nbsp; &nbsp; &nbsp; 
 <a href="https://github.com/JanaK-L/App_MeROS#readme" target="_blank" rel="noreferrer"><img src="https://github.com/JanaK-L/App_MeROS/blob/main/images/MeROS2.png" width="243" alt="Applikation: MeROS - Meldesystem Radfahrender in Osnabrück" title="Applikation: MeROS - Meldesystem Radfahrender in Osnabrück"/></a>
