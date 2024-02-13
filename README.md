@@ -3,7 +3,7 @@
 </picture>
 
 
-## Jana Kombrink-Lübbe 🐕 🌍
+## Jana Kombrink-Lübbe 🐕 🛰️
 **_In Zeiten des Artensterbens und des Klimawandels dient die Fernerkundung als nützliches Instrument zur Untersuchung der Gesundheit unseres Planeten._**
 
 Daher studiere die Fächer Geoinformatik und Umweltsystemwissenschaft im Zweifächer-Bachelor. Nebenbei arbeite ich als studentische Forschungshilfskraft für die Arbeitsgruppe **_Remote Sensing and Digital Image Analysis_** der Universität Osnabrück.
