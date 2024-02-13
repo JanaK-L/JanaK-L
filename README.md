@@ -18,7 +18,7 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 
 ## Integration von Modellen in Geoinformationssysteme
 
-- Hydrologische Analyse und Modellierung des Transports von E. Coli Bakterien (Bild rechts)
+- Hydrologische Analyse und Modellierung des Transports von E. Coli Bakterien (Bild links)
 - Habitatsanalyse für den Mückenfänger 🐦
 - Bodenerosionsmodellierung durch die Revised Universal Soil Loss Equation
 - Urban Sprawl Modell in Form eines zellulären Automaten
