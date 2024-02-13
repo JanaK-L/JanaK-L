@@ -58,19 +58,16 @@ Simulation und Analyse der Fragmentierung von Waldflächen anhand eines binären
 
 
 
-<h2 align = center> Schätzung der Brandschwere </h2>
+<h2 align = center> Maschinelles Lernen zur Schätzung der Brandschwere </h2>
 
 <p align = "center">
 <img align = "center" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/BurnSeverityDecisionTreeRegression.png" width="410" alt="Visualisierung des Ergebnis der Decision Tree Regression zur Schätzung der Brandschwere" title="Visualisierung des Ergebnis der Decision Tree Regression zur Schätzung der Brandschwere"/>
 <img align = "center" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/BurnSeveritySVMRegressionEnsembleSynthMix.png" width="320" alt="Ergebnis der spektralen Entmischungsanalyse mit Support Vector Regression Ensemble und synthetisch gemischten Trainingsdaten" title="Ergebnis der spektralen Entmischungsanalyse mit Support Vector Regression Ensemble und synthetisch gemischten Trainingsdaten"/>
+ 
+Bild links: Gruppenarbeit mit <a href="https://github.com/lenbecker" target="_blank" rel="noreferrer">Lennart Becker<a/>:<br/>
+Schätzung und Visualisierung der Brandschwere mit Hilfe eines Decision Tree Regressors sowie des Differenced Normalized Burn Ratio des Tinder Feuers im Coconino National Forest in Arizona
 
-
-
-  
-Links: Gruppenarbeit mit <a href="https://github.com/lenbecker" target="_blank" rel="noreferrer">Lennart Becker<a/>:<br/>
-Schätzung und Visualisierung der Brandschwere mit Hilfe eines Decision Tree Regressors sowie des Differenced Normalized Burn Ratio
-
-Rechts: Bachelorarbeit:<br/>
+Bild rechts: Bachelorarbeit:<br/>
 Spektrale Entmischungsanalyse im Rahmen eines Support Vector Regression Ensembles mit synthetisch gemischten Trainingsdaten zur Schätzung der Brandschwere des Tinder Feuers im Coconino National Forest in Arizona
 
 </p> 
@@ -105,10 +102,10 @@ Gruppenarbeit mit ???:<br/>
 <img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/International%20Roughness%20Index.jpg" width="165" alt="International Roughness Index Calculator for bicycles" title="International Roughness Index Calculator for bicycles"/>
 
 
-Links: Gruppenarbeit mit  <a href="https://github.com/magda210" target="_blank" rel="noreferrer">Magdalena Lechtermann<a/>:<br/>
+Bild links: Gruppenarbeit mit  <a href="https://github.com/magda210" target="_blank" rel="noreferrer">Magdalena Lechtermann<a/>:<br/>
 Fiktives Meldesystem für Beeinträchtigungen Radfahrender in Osnabrück
 
-Rechts: Gruppenarbeit mit  <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>:<br/>
+Bild rechts: Gruppenarbeit mit  <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>:<br/>
 Calculating the International Roughness Index based on GPS and Accelerometer sensors on bicycle-mounted Android smartphones
 
 Unten: Gruppenarbeit mit <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>,
