@@ -2,6 +2,8 @@
   <img alt="Remote Sensing" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/RemoteSensing.mp4">
 </picture>
 
+[![Now in Android: 55] (https://github.com/JanaK-L/JanaK-L/blob/main/Images/RemoteSensing.mp4) 
+
 ## Jana Kombrink-Lübbe 🐕
 **_Die Analyse von Fernerkundungsdaten stellt für raumbezogene Fragestellungen eine maßgebende Entscheidungshilfe dar. Insbesondere in Zeiten des Artensterbens und des Klimawandels dient die Fernerkundung als nützliches Instrument zur Untersuchung der Gesundheit unseres Planeten._**
 
