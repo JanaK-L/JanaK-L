@@ -13,7 +13,7 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 
 ## **Mini-Studienprojekte**
 <p>
-<img  align="left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Bakterien_Frachtkonzentration.png" width="300" alt="Modellierung des Transports von E. Coli Bakterien" title="Modellierung des Transports von E. Coli Bakterien (hier Bakterienkonzentration)"/>
+<img  align="right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Bakterien_Frachtkonzentration.png" width="300" alt="Modellierung des Transports von E. Coli Bakterien" title="Modellierung des Transports von E. Coli Bakterien (hier Bakterienkonzentration)"/>
 
 ## Integration von Modellen in Geoinformationssysteme
 
@@ -29,7 +29,7 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 
 
 <p>
-<img align = "right" src="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Images/CorgKarte.png" width="304" alt="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel"/>
+<img align = "left" src="https://github.com/JanaK-L/Quantitative_Analyse_Pedochemischer_Eigenschaften/blob/main/Images/CorgKarte.png" width="304" alt="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel" title="Quantitative Analyse pedochemischer Eigenschaften in einem semiariden Untersuchungsgebiet in Israel"/>
 
 ## Quantitative Analyse pedochemischer Eigenschaften
 
@@ -43,7 +43,7 @@ Herleitung von empirisch statistischen Modellen, um den Anteil der drei Bodenpar
 
 
 <p>
-<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Waldfragmentierung.png" width="420" alt="Modellierung fragmentierter Waldflächen im zellulären Automaten" title="Modellierung fragmentierter Waldflächen im zellulären Automaten"/>
+<img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Waldfragmentierung.png" width="420" alt="Modellierung fragmentierter Waldflächen im zellulären Automaten" title="Modellierung fragmentierter Waldflächen im zellulären Automaten"/>
 
 ## Perkolation simulierter Waldflächen
 
