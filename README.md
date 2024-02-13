@@ -67,10 +67,10 @@ Simulation und Analyse der Fragmentierung von Waldflächen anhand eines binären
 
 
   
-Gruppenarbeit mit <a href="https://github.com/lenbecker" target="_blank" rel="noreferrer">Lennart Becker<a/>:<br/>
+Links: Gruppenarbeit mit <a href="https://github.com/lenbecker" target="_blank" rel="noreferrer">Lennart Becker<a/>:<br/>
 Schätzung und Visualisierung der Brandschwere mit Hilfe eines Decision Tree Regressors sowie des Differenced Normalized Burn Ratio
 
-Bachelorarbeit:<br/>
+Rechts: Bachelorarbeit:<br/>
 Spektrale Entmischungsanalyse im Rahmen eines Support Vector Regression Ensembles mit synthetisch gemischten Trainingsdaten zur Schätzung der Brandschwere des Tinder Feuers im Coconino National Forest in Arizona
 
 </p> 
