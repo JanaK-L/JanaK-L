@@ -1,12 +1,12 @@
 <picture>
-  <img alt="Remote Sensing" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/RemoteSensing.gif">
+  <img align = "left" alt="Remote Sensing" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/RemoteSensing.gif">
 </picture>
 
 
 ## Jana Kombrink-Lübbe 🐕
 **_Die Analyse von Fernerkundungsdaten stellt für raumbezogene Fragestellungen eine maßgebende Entscheidungshilfe dar. Insbesondere in Zeiten des Artensterbens und des Klimawandels dient die Fernerkundung als nützliches Instrument zur Untersuchung der Gesundheit unseres Planeten._**
 
-Daher studiere ich die Fächer Geoinformatik und Umweltsystemwissenschaft im Zweifächer-Bachelor. Nebenbei arbeite ich als studentische Forschungshilfskraft für die Arbeitsgruppe **_Remote Sensing and Digital Image Analysis_** der Universität Osnabrück.
+Ich studiere derzeit die Fächer Geoinformatik und Umweltsystemwissenschaft im Zweifächer-Bachelor. Nebenbei arbeite ich als studentische Forschungshilfskraft für die Arbeitsgruppe **_Remote Sensing and Digital Image Analysis_** der Universität Osnabrück.
 
 Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkundungsdaten. Des Weiteren interessiere ich mich auch für diverse Aufgabenstellungen aus den Bereichen der Informatik und des maschinellen Lernens. Zudem freue ich mich stets darüber, etwas Neues dazu lernen zu können.
 
