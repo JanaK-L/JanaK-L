@@ -105,6 +105,8 @@ Verarbeitung von Leaf Area Index Daten eines Geosensornetzwerkes mit Hilfe des T
 
 <br/>
 <br/>
+<br/>
+<br/>
 
 
 
@@ -130,7 +132,7 @@ Fiktives Straßenschäden Melde- und Informationssystem für Bürger und Kontrol
 
 <p>
 <img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/International%20Roughness%20Index.jpg" width="110" alt="International Roughness Index Calculator for bicycles" title="International Roughness Index Calculator for bicycles"/>
-<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/MeldesystemRadfahrenderOsnabr%C3%BCck.png" width="120" alt="Meldesystem Radfahrender in Osnabrück" title="Meldesystem Radfahrender in Osnabrück"/>
+<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/MeldesystemRadfahrenderOsnabr%C3%BCck.png" width="125" alt="Meldesystem Radfahrender in Osnabrück" title="Meldesystem Radfahrender in Osnabrück"/>
 
 ## Android Appentwicklung
 
