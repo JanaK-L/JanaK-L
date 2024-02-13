@@ -2,11 +2,10 @@
   <img alt="Remote Sensing" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/RemoteSensing.mp4">
 </picture>
 
-# cool-beans
 
-https://github.com/JanaK-L/JanaK-L/blob/main/Images/RemoteSensing.mp4
-
-Press play to see the video.
+<video width="320" height="240" controls>
+  <source src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/RemoteSensing.mp4" type="video/mp4">
+</video>
 
 
 ## Jana Kombrink-Lübbe 🐕
