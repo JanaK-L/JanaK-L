@@ -95,7 +95,7 @@ Gruppenarbeit mit ???:<br/>
 
 
 <p>
-<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/GeosensornetzwerkFilter.png" width="120" alt="Filter zur Verarbeitung der Geosensornetzwerkdaten" title="Filter zur Verarbeitung der Geosensornetzwerkdaten"/>
+<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/GeosensornetzwerkFilter.png" width="170" alt="Filter zur Verarbeitung der Geosensornetzwerkdaten" title="Filter zur Verarbeitung der Geosensornetzwerkdaten"/>
 
 ## Datenverarbeitung eines Geosensornetzwerkes
 
@@ -109,7 +109,7 @@ Verarbeitung von Leaf Area Index Daten eines Geosensornetzwerkes mit Hilfe des T
 
 
 <p>
-<img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Schaden%20Informationssystem.png" width="320" alt="Straßenschäden Melde- und Informationssystem" title="Straßenschäden Melde- und Informationssystem"/>
+<img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Schaden%20Informationssystem.png" width="370" alt="Straßenschäden Melde- und Informationssystem" title="Straßenschäden Melde- und Informationssystem"/>
 
 ## Webentwicklung
   
@@ -129,8 +129,8 @@ Fiktives Straßenschäden Melde- und Informationssystem für Bürger und Kontrol
 
 
 <p>
-<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/International%20Roughness%20Index.jpg" width="97" alt="International Roughness Index Calculator for bicycles" title="International Roughness Index Calculator for bicycles"/>
-<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/MeldesystemRadfahrenderOsnabr%C3%BCck.png" width="110" alt="Meldesystem Radfahrender in Osnabrück" title="Meldesystem Radfahrender in Osnabrück"/>
+<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/International%20Roughness%20Index.jpg" width="110" alt="International Roughness Index Calculator for bicycles" title="International Roughness Index Calculator for bicycles"/>
+<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/MeldesystemRadfahrenderOsnabr%C3%BCck.png" width="120" alt="Meldesystem Radfahrender in Osnabrück" title="Meldesystem Radfahrender in Osnabrück"/>
 
 ## Android Appentwicklung
 
