@@ -1,5 +1,5 @@
 <picture>
-  <img alt="Remote Sensing" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Remote Sensing.png">
+  <img alt="Remote Sensing" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/RemoteSensing.mp4">
 </picture>
 
 ## Jana Kombrink-Lübbe 🐕
