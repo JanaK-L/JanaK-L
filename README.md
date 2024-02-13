@@ -95,7 +95,7 @@ Gruppenarbeit mit ???:<br/>
 
 
 <p>
-<img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/GeosensornetzwerkFilter.png" width="120" alt="Filter zur Verarbeitung der Geosensornetzwerkdaten" title="Filter zur Verarbeitung der Geosensornetzwerkdaten"/>
+<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/GeosensornetzwerkFilter.png" width="120" alt="Filter zur Verarbeitung der Geosensornetzwerkdaten" title="Filter zur Verarbeitung der Geosensornetzwerkdaten"/>
 
 ## Datenverarbeitung eines Geosensornetzwerkes
 
@@ -109,7 +109,7 @@ Verarbeitung von Leaf Area Index Daten eines Geosensornetzwerkes mit Hilfe des T
 
 
 <p>
-<img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Schaden%20Informationssystem.png" width="220" alt="Straßenschäden Melde- und Informationssystem" title="Straßenschäden Melde- und Informationssystem"/>
+<img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Schaden%20Informationssystem.png" width="320" alt="Straßenschäden Melde- und Informationssystem" title="Straßenschäden Melde- und Informationssystem"/>
 
 ## Webentwicklung
   
