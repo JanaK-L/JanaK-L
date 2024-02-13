@@ -11,16 +11,16 @@ Daher studiere die Fächer Geoinformatik und Umweltsystemwissenschaft im Zweifä
 Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkundungsdaten. Des Weiteren interessiere ich mich auch für diverse Aufgabenstellungen aus den Bereichen der Informatik und des maschinellen Lernens.
 
 
-<h2 align = "right">**Mini-Studienprojekte** </h2>
+<h2 align = "right">Mini-Studienprojekte</h2>
 
 <p>
 <img  align="right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Bakterien_Frachtkonzentration.png" width="300" alt="Modellierung des Transports von E. Coli Bakterien" title="Modellierung des Transports von E. Coli Bakterien (hier Bakterienkonzentration)"/>
 
 ## Integration von Modellen in Geoinformationssysteme
 
+- Hydrologische Analyse und Modellierung des Transports von E. Coli Bakterien (Bild rechts)
 - Habitatsanalyse für den Mückenfänger 🐦
 - Bodenerosionsmodellierung durch die Revised Universal Soil Loss Equation
-- Hydrologische Analyse und Modellierung des Transports von E. Coli Bakterien (Bild links)
 - Urban Sprawl Modell in Form eines erweiterten zellulären Automaten
 
 </p> 
