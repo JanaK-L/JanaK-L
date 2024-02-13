@@ -97,7 +97,7 @@ Gruppenarbeit mit ???:<br/>
 <p>
 <img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/GeosensornetzwerkFilter.png" width="170" alt="Filter zur Verarbeitung der Geosensornetzwerkdaten" title="Filter zur Verarbeitung der Geosensornetzwerkdaten"/>
 
-## Datenverarbeitung eines Geosensornetzwerkes
+## Verarbeitung der Daten eines Geosensornetzwerks
 
 Verarbeitung von Leaf Area Index Daten eines Geosensornetzwerkes mit Hilfe des Tools Node-RED
 
@@ -107,7 +107,8 @@ Verarbeitung von Leaf Area Index Daten eines Geosensornetzwerkes mit Hilfe des T
 <br/>
 <br/>
 <br/>
-
+<br/>
+<br/>
 
 
 <p>
