@@ -4,7 +4,7 @@
 
 
 ## Jana Kombrink-Lübbe 🐕
-**_Die Analyse von Fernerkundungsdaten stellt für raumbezogene Fragestellungen eine maßgebende Entscheidungshilfe dar. Insbesondere in Zeiten des Artensterbens und des Klimawandels dient die Fernerkundung als nützliches Instrument zur Untersuchung der Gesundheit unseres Planeten._**
+**_Insbesondere in Zeiten des Artensterbens und des Klimawandels dient die Fernerkundung als nützliches Instrument zur Untersuchung der Gesundheit unseres Planeten._**
 
 Daher studiere die Fächer Geoinformatik und Umweltsystemwissenschaft im Zweifächer-Bachelor. Nebenbei arbeite ich als studentische Forschungshilfskraft für die Arbeitsgruppe **_Remote Sensing and Digital Image Analysis_** der Universität Osnabrück.
 
