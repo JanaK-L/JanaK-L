@@ -1,5 +1,5 @@
 <picture>
-  <img align = "left" alt="Remote Sensing" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/RemoteSensing.gif">
+  <img align = "left" alt="Remote Sensing" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/RemoteSensingGIF.gif">
 </picture>
 
 
@@ -21,7 +21,7 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 - Hydrologische Analyse und Modellierung des Transports von E. Coli Bakterien (Bild rechts)
 - Habitatsanalyse für den Mückenfänger 🐦
 - Bodenerosionsmodellierung durch die Revised Universal Soil Loss Equation
-- Urban Sprawl Modell in Form eines erweiterten zellulären Automaten
+- Urban Sprawl Modell in Form eines zellulären Automaten
 
 </p> 
 
