@@ -94,24 +94,18 @@ Gruppenarbeit mit ???:<br/>
 <br/>
 
 
-
-
 <p>
-<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/International%20Roughness%20Index.jpg" width="158" alt="International Roughness Index Calculator for bicycles" title="International Roughness Index Calculator for bicycles"/>
-<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/MeldesystemRadfahrenderOsnabr%C3%BCck.png" width="180" alt="Meldesystem Radfahrender in Osnabrück" title="Meldesystem Radfahrender in Osnabrück"/>
+<img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/GeosensornetzwerkFilter.png" width="220" alt="Filter zur Verarbeitung der Geosensornetzwerkdaten" title="Filter zur Verarbeitung der Geosensornetzwerkdaten"/>
 
-## Android Appentwicklung
+## Datenverarbeitung eines Geosensornetzwerkes
 
-Bild links: Gruppenarbeit mit  <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>:<br/>
-Calculating the International Roughness Index based on GPS and Accelerometer sensors on bicycle-mounted Android smartphones
-
-Bild rechts: Gruppenarbeit mit  <a href="https://github.com/magda210" target="_blank" rel="noreferrer">Magdalena Lechtermann<a/>:<br/>
-Fiktives Meldesystem für Beeinträchtigungen Radfahrender in Osnabrück
+Verarbeitung von Leaf Area Index Daten eines Geosensornetzwerkes mit Hilfe des Tools Node-RED
 
 </p> 
 
 <br/>
 <br/>
+
 
 
 <p>
@@ -133,17 +127,24 @@ Fiktives Straßenschäden Melde- und Informationssystem für Bürger und Kontrol
 <br/>
 
 
+
 <p>
-<img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/GeosensornetzwerkFilter.png" width="220" alt="Filter zur Verarbeitung der Geosensornetzwerkdaten" title="Filter zur Verarbeitung der Geosensornetzwerkdaten"/>
+<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/International%20Roughness%20Index.jpg" width="158" alt="International Roughness Index Calculator for bicycles" title="International Roughness Index Calculator for bicycles"/>
+<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/MeldesystemRadfahrenderOsnabr%C3%BCck.png" width="180" alt="Meldesystem Radfahrender in Osnabrück" title="Meldesystem Radfahrender in Osnabrück"/>
 
-## Datenverarbeitung eines Geosensornetzwerkes
+## Android Appentwicklung
 
-Verarbeitung von Leaf Area Index Daten eines Geosensornetzwerkes mit Hilfe des Tools Node-RED
+Bild links: Gruppenarbeit mit  <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>:<br/>
+Calculating the International Roughness Index based on GPS and Accelerometer sensors on bicycle-mounted Android smartphones
+
+Bild rechts: Gruppenarbeit mit  <a href="https://github.com/magda210" target="_blank" rel="noreferrer">Magdalena Lechtermann<a/>:<br/>
+Fiktives Meldesystem für Beeinträchtigungen Radfahrender in Osnabrück
 
 </p> 
 
 <br/>
 <br/>
+
 
 
 
