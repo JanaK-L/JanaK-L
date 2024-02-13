@@ -116,8 +116,10 @@ Fiktives Meldesystem für Beeinträchtigungen Radfahrender in Osnabrück
 
 <p>
 <img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Schaden%20Informationssystem.png" width="520" alt="Straßenschäden Melde- und Informationssystem" title="Straßenschäden Melde- und Informationssystem"/>
+
+## Webentwicklung
   
-Unten: Gruppenarbeit mit <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>,
+Gruppenarbeit mit <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>,
 <a href="https://github.com/sandrah99" target="_blank" rel="noreferrer">Sandra Huntemann<a/>,
 <a href="https://github.com/FreeElektron" target="_blank" rel="noreferrer">Andre Edouard<a/>,
 <a href="https://github.com/oliverschuette" target="_blank" rel="noreferrer">Oliver Schütte<a/>,
