@@ -60,10 +60,11 @@ Simulation und Analyse der Fragmentierung von Waldflächen anhand eines binären
 
 <h2 align = center> Schätzung der Brandschwere </h2>
 
+<p align = "center">
 <img align = "center" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/BurnSeverityDecisionTreeRegression.png" width="410" alt="Visualisierung des Ergebnis der Decision Tree Regression zur Schätzung der Brandschwere" title="Visualisierung des Ergebnis der Decision Tree Regression zur Schätzung der Brandschwere"/>
 <img align = "center" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/BurnSeveritySVMRegressionEnsembleSynthMix.png" width="320" alt="Ergebnis der spektralen Entmischungsanalyse mit Support Vector Regression Ensemble und synthetisch gemischten Trainingsdaten" title="Ergebnis der spektralen Entmischungsanalyse mit Support Vector Regression Ensemble und synthetisch gemischten Trainingsdaten"/>
 
-<p align = "center">
+
 
   
 Gruppenarbeit mit <a href="https://github.com/lenbecker" target="_blank" rel="noreferrer">Lennart Becker<a/>:<br/>
