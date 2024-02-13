@@ -1,5 +1,5 @@
 <picture>
-  <img align = "left" alt="Remote Sensing" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/RemoteSensingGIF.gif">
+  <img align = "right" alt="Remote Sensing" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/RemoteSensingGIF.gif">
 </picture>
 
 
