@@ -92,21 +92,29 @@ Gruppenarbeit mit ???:<br/>
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 
-## Android Appentwicklung und Webentwicklung
+
+## Android Appentwicklung
 <p>
-<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/MeldesystemRadfahrenderOsnabr%C3%BCck.png" width="180" alt="Meldesystem Radfahrender in Osnabrück" title="Meldesystem Radfahrender in Osnabrück"/>
-<img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/International%20Roughness%20Index.jpg" width="165" alt="International Roughness Index Calculator for bicycles" title="International Roughness Index Calculator for bicycles"/>
+<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/International%20Roughness%20Index.jpg" width="165" alt="International Roughness Index Calculator for bicycles" title="International Roughness Index Calculator for bicycles"/>
+<img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/MeldesystemRadfahrenderOsnabr%C3%BCck.png" width="180" alt="Meldesystem Radfahrender in Osnabrück" title="Meldesystem Radfahrender in Osnabrück"/>
 
+Bild links: Gruppenarbeit mit  <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>:<br/>
+Calculating the International Roughness Index based on GPS and Accelerometer sensors on bicycle-mounted Android smartphones
 
-Bild links: Gruppenarbeit mit  <a href="https://github.com/magda210" target="_blank" rel="noreferrer">Magdalena Lechtermann<a/>:<br/>
+Bild rechts: Gruppenarbeit mit  <a href="https://github.com/magda210" target="_blank" rel="noreferrer">Magdalena Lechtermann<a/>:<br/>
 Fiktives Meldesystem für Beeinträchtigungen Radfahrender in Osnabrück
 
-Bild rechts: Gruppenarbeit mit  <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>:<br/>
-Calculating the International Roughness Index based on GPS and Accelerometer sensors on bicycle-mounted Android smartphones
+</p> 
+
+<br/>
+<br/>
+
+
+
+
+
 
 Unten: Gruppenarbeit mit <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>,
 <a href="https://github.com/sandrah99" target="_blank" rel="noreferrer">Sandra Huntemann<a/>,
@@ -115,8 +123,6 @@ Unten: Gruppenarbeit mit <a href="https://github.com/TimKrger" target="_blank" r
 <a href="https://github.com/ak-uos" target="_blank" rel="noreferrer">Anton Kirsten<a/>,
 <a href="https://github.com/MiriamRoh" target="_blank" rel="noreferrer">Miriam Rohland<a/>:<br/>
 Fiktives Straßenschäden Melde- und Informationssystem für Bürger und Kontrollinstanzen der Gemeinde Kirchgellersen und Südergellersen bei Lüneburg unter Verwendung der Frameworks Django und Angular
-
-</p> 
 
 <img align = "center" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Schaden%20Informationssystem.png" width="520" alt="Straßenschäden Melde- und Informationssystem" title="Straßenschäden Melde- und Informationssystem"/>
 
