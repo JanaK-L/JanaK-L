@@ -8,7 +8,7 @@
 
 Daher studiere die Fächer Geoinformatik und Umweltsystemwissenschaft im Zweifächer-Bachelor. Nebenbei arbeite ich als studentische Forschungshilfskraft für die Arbeitsgruppe **_Remote Sensing and Digital Image Analysis_** der Universität Osnabrück.
 
-Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkundungsdaten. Des Weiteren interessiere ich mich auch für diverse Aufgabenstellungen aus den Bereichen der Informatik und des maschinellen Lernens. Zudem freue ich mich stets darüber, etwas Neues dazu lernen zu können.
+Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkundungsdaten. Des Weiteren interessiere ich mich auch für diverse Aufgabenstellungen aus den Bereichen der Informatik und des maschinellen Lernens.
 
 
 ## **Mini-Studienprojekte**
