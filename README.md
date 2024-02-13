@@ -35,7 +35,7 @@ Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkun
 ## Quantitative Analyse pedochemischer Eigenschaften
 
 Gruppenarbeit mit Clarissa Laibacher und <a href="https://github.com/TimKrger" target="_blank" rel="noreferrer">Tim Kröger<a/>:<br/>
-Herleitung von empirisch statistischen Modellen, um den Anteil der drei Bodenparametern organischer Kohlenstoff, anorganischer Kohlenstoff und Eisen in einem semiarid-ariden Untersuchungsgebiet in Israel zu schätzen
+Ableitung von empirisch statistischen Modellen, um den Anteil der drei Bodenparametern organischer Kohlenstoff, anorganischer Kohlenstoff und Eisen in einem semiarid-ariden Untersuchungsgebiet in Israel zu schätzen
 
 </p> 
 
@@ -57,10 +57,13 @@ Simulation und Analyse der Fragmentierung von Waldflächen anhand eines binären
 <br/>
 
 
-<p>
-<img align = "right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/BurnSeverityDecisionTreeRegression.png" width="410" alt="Visualisierung des Ergebnis der Decision Tree Regression zur Schätzung der Brandschwere" title="Visualisierung des Ergebnis der Decision Tree Regression zur Schätzung der Brandschwere"/>
+## Schätzung der Brandschwere
 
-## Decision Tree Regression zur Schätzung der Brandschwere
+<p>
+<img align = "center" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/BurnSeverityDecisionTreeRegression.png" width="410" alt="Visualisierung des Ergebnis der Decision Tree Regression zur Schätzung der Brandschwere" title="Visualisierung des Ergebnis der Decision Tree Regression zur Schätzung der Brandschwere"/>
+<img align = "center" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/BurnSeveritySVMRegressionEnsembleSynthMix.png" width="320" alt="Ergebnis der spektralen Entmischungsanalyse mit Support Vector Regression Ensemble und synthetisch gemischten Trainingsdaten" title="Ergebnis der spektralen Entmischungsanalyse mit Support Vector Regression Ensemble und synthetisch gemischten Trainingsdaten"/>
+  
+
 
 Gruppenarbeit mit <a href="https://github.com/lenbecker" target="_blank" rel="noreferrer">Lennart Becker<a/>:<br/>
 Schätzung und Visualisierung der Brandschwere mit Hilfe eines Decision Tree Regressors sowie des Differenced Normalized Burn Ratio
@@ -72,7 +75,7 @@ Schätzung und Visualisierung der Brandschwere mit Hilfe eines Decision Tree Reg
 
 
 <p>
-<img align = "left" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/BurnSeveritySVMRegressionEnsembleSynthMix.png" width="320" alt="Ergebnis der spektralen Entmischungsanalyse mit Support Vector Regression Ensemble und synthetisch gemischten Trainingsdaten" title="Ergebnis der spektralen Entmischungsanalyse mit Support Vector Regression Ensemble und synthetisch gemischten Trainingsdaten"/>
+
 
 ## Spektrale Entmischungsanalyse und Support Vector Regression Ensemble zur Ermittlung der Brandschwere
 
