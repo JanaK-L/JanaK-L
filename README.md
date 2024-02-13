@@ -11,7 +11,8 @@ Daher studiere die Fächer Geoinformatik und Umweltsystemwissenschaft im Zweifä
 Ich begeistere mich für jegliche Art der Analyse und Modellierung mit Fernerkundungsdaten. Des Weiteren interessiere ich mich auch für diverse Aufgabenstellungen aus den Bereichen der Informatik und des maschinellen Lernens.
 
 
-## **Mini-Studienprojekte**
+<h2 align = "right">**Mini-Studienprojekte** </h2>
+
 <p>
 <img  align="right" src="https://github.com/JanaK-L/JanaK-L/blob/main/Images/Bakterien_Frachtkonzentration.png" width="300" alt="Modellierung des Transports von E. Coli Bakterien" title="Modellierung des Transports von E. Coli Bakterien (hier Bakterienkonzentration)"/>
 
