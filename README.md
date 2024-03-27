@@ -79,7 +79,7 @@ Spektrale Entmischungsanalyse im Rahmen eines Support Vector Regression Ensemble
 <p>
 <img align = "right" src="" width="320" alt="" title=""/>
 
-## Multitemporal Crop Classification and Deep Learning: The _"Cropformer"_ is coming (soon)! 🚜
+## Multitemporal Crop Classification 🚜
 
 Gruppenarbeit mit ???:<br/>
 
